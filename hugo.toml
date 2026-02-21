@@ -38,6 +38,8 @@ defaultContentLanguage = "en"
         pageRef = "/docs"
         weight = 3
 
+[taxonomies]
+
 [params]
   description = "1990 Albin Express — Charter & Sale"
   contactEmail = "REPLACE_ME"

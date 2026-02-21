@@ -1,16 +1,16 @@
 <header class="site-header">
   <nav class="nav">
-    <a href="{{ "/" | relLangURL }}" class="nav__logo">Albin Express</a>
+    <a href="{{ .Site.Home.RelPermalink }}" class="nav__logo">Albin Express</a>
     <ul class="nav__links">
       {{- range .Site.Menus.main }}
       <li><a href="{{ .URL }}" class="nav__link">{{ .Name }}</a></li>
       {{- end }}
     </ul>
     <div class="nav__lang">
-      {{- range .Site.Languages }}
-      <a href="{{ $.RelPermalink | absLangURL }}"
+      {{- range .AllTranslations }}
+      <a href="{{ .RelPermalink }}"
          class="nav__lang-link{{ if eq $.Lang .Lang }} nav__lang-link--active{{ end }}"
-         hreflang="{{ .Lang }}">{{ .LanguageName }}</a>
+         hreflang="{{ .Lang }}">{{ .Language.LanguageName }}</a>
       {{- end }}
     </div>
   </nav>
