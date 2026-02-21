@@ -2,15 +2,15 @@
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express 26 — Helsinki, Suomi"
 heroSlides:
+  - src: "videos/PXL_20240813_121305671.LS.mp4"
+    video: true
+  - src: "videos/PXL_20240818_100544971.LS~2.mp4"
+    video: true
   - src: "videos/VID_20200716_214753_01_01~2.mp4"
     video: true
-  - src: "videos/VID_20200814_210315.mp4"
-    video: true
-  - src: "videos/VID_20210721_200427.mp4"
-    video: true
-  - src: "videos/VID_20210721_214318~2.mp4"
-    video: true
   - src: "videos/VID_20210904_115803~2.mp4"
+    video: true
+  - src: "videos/VID20220809210758~2.mp4"
     video: true
 pricingTitle: "Vuokraus"
 pricing:

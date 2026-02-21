@@ -3,11 +3,11 @@
   {{ with .Params.heroSlides }}
   {{ range $i, $slide := . }}
   {{ if $slide.video }}
-  <video class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}" muted playsinline loop>
+  <video class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}" muted playsinline loop{{ if eq $i 0 }} preload="auto" poster="{{ "images/hero-poster.jpg" | relURL }}"{{ else }} preload="none"{{ end }}>
     <source src="{{ $slide.src | relURL }}" type="video/mp4">
   </video>
   {{ else }}
-  <img src="{{ $slide.src | relURL }}" alt="{{ $slide.alt }}" class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}">
+  <img src="{{ $slide.src | relURL }}" alt="{{ $slide.alt }}" class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}"{{ if ne $i 0 }} loading="lazy"{{ end }}>
   {{ end }}
   {{ end }}
   {{ else }}
@@ -25,6 +25,17 @@
   var slides = document.querySelectorAll('.hero__slide');
   if (slides.length < 2) return;
   var current = 0;
+  var FADE_MS = 800;
+  var PRELOAD_AHEAD_MS = 2000;
+  function preloadSlide(idx) {
+    var s = slides[idx];
+    if (s.tagName === 'VIDEO' && s.preload === 'none') s.preload = 'auto';
+  }
+  function scheduleNext(delay) {
+    var nextIdx = (current + 1) % slides.length;
+    setTimeout(function() { preloadSlide(nextIdx); }, Math.max(delay - PRELOAD_AHEAD_MS, 0));
+    setTimeout(next, delay);
+  }
   function next() {
     var cur = slides[current];
     current = (current + 1) % slides.length;
@@ -32,14 +43,16 @@
     if (nxt.tagName === 'VIDEO') nxt.play();
     nxt.classList.add('hero__slide--active');
     cur.classList.remove('hero__slide--active');
-    if (cur.tagName === 'VIDEO') { cur.pause(); cur.currentTime = 0; }
-    var duration = nxt.tagName === 'VIDEO' ? (nxt.duration || 8) * 1000 : 6000;
-    setTimeout(next, duration);
+    setTimeout(function() {
+      if (cur.tagName === 'VIDEO') { cur.pause(); cur.currentTime = 0; }
+    }, FADE_MS);
+    var duration = nxt.tagName === 'VIDEO' ? (nxt.duration || 5) * 1000 - FADE_MS : 5000;
+    scheduleNext(Math.max(duration, 2000));
   }
   var first = slides[0];
   if (first.tagName === 'VIDEO') first.play();
-  var startDuration = first.tagName === 'VIDEO' ? (first.duration || 8) * 1000 : 6000;
-  setTimeout(next, startDuration);
+  var startDuration = first.tagName === 'VIDEO' ? (first.duration || 5) * 1000 - FADE_MS : 5000;
+  scheduleNext(Math.max(startDuration, 2000));
 })();
 </script>
 {{ end }}
