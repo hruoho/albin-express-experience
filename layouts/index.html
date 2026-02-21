@@ -1,0 +1,46 @@
+{{ define "main" }}
+<section class="hero">
+  <img src="{{ "images/gallery/hero.jpg" | relURL }}" alt="Albin Express under sail" class="hero__image">
+  <div class="hero__overlay">
+    <h1 class="hero__title">{{ .Title }}</h1>
+    <p class="hero__subtitle">{{ .Params.subtitle }}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section--narrow">
+    {{ .Content }}
+  </div>
+</section>
+
+{{ with .Params.pricing }}
+<section class="section">
+  <h2>{{ $.Params.pricingTitle | default "Pricing" }}</h2>
+  <div class="card-grid">
+    {{ range . }}
+    <div class="card">
+      <p class="label">{{ .label }}</p>
+      <h3 class="card__title">{{ .title }}</h3>
+      <p class="card__price">{{ .price }}</p>
+      {{ with .details }}
+      {{ range . }}
+      <p class="card__detail">{{ . }}</p>
+      {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="section">
+  <h2>{{ .Params.contactTitle | default "Contact" }}</h2>
+  <div class="section--narrow">
+    <p>{{ .Params.contactText }}</p>
+    <p><a href="mailto:{{ .Site.Params.contactEmail }}">{{ .Site.Params.contactEmail }}</a></p>
+    {{ with .Params.contactPhone }}
+    <p><a href="tel:{{ . }}">{{ . }}</a></p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
