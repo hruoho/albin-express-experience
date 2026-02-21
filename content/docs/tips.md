@@ -1,27 +1,27 @@
 ---
-title: "Vinkkejä"
+title: "Practical Tips"
 weight: 6
-summary: "Ohjauspinna, ratsastajat, hyttysverkot, satamavinkkit"
+summary: "Tiller lock, battens, mosquito nets, harbour tips"
 ---
 
-## Ohjauspinna
+## Tiller Lock
 
-Ohjauspinnan saa lukittua keskelle nostamalla pinnaa yläasentoon. Lukitusnarun voi tarvittaessa irrottaa helposti jotta takaluukkuun pääseminen helpottuu.
+The tiller can be locked at centre by raising it to the upper position. The lock line can be easily detached to improve access to the rear hatch.
 
-## Isopurjeen ratsastajat
+## Mainsail Battens
 
-Isopurjeen ratsastajat pysyvät maastourassa oranssin silikoniremmin avulla. Remmi täytyy irrottaa reivatessa ja laittaa takaisin kun reivi puretaan tai purje lasketaan (muuten ratsastajat pakenevat mastourasta).
+The mainsail battens are held in the mast track by an orange silicone strap. The strap must be removed when reefing and put back when the reef is shaken out or the sail is lowered (otherwise the battens will escape from the mast track).
 
-## Hyttysverkot ja sadesuoja
+## Mosquito Nets and Rain Cover
 
-Veneessä on hyttysverkot kulku- ja keulaluukkuun, niitä kannattaa käyttää öisin jos/kun tuuletus on toivottu.
+The boat has mosquito nets for the companionway and forehatch — use them at night when ventilation is wanted.
 
-Kotisatamassa käytettävää valkoista peitettä voi käyttää sateella kulkuaukon suojana ripustamalla yhden reunan puomiin.
+The white cover used at the home berth can also be used as rain protection over the companionway by hanging one edge from the boom.
 
-## Säilytys yön yli
+## Overnight Storage
 
-Veneessä on kaksi suurehkoa kanoottisäkkiä, jotka voi sijoittaa istumalaatikkoon yön ajaksi vaikka sataisi. Niihin on kätevä pakata esimerkiksi purjehdusvaatteet ja pelastusliivit yms. mitä ei sisällä nukkuessa tarvitse.
+The boat has two large canoe-style bags that fit in the cockpit locker overnight, even in rain. Handy for packing sailing clothes, life jackets, and other items you don't need below while sleeping.
 
-## Melu satamassa
+## Noise in the Harbour
 
-Satamassa fallit kannattaa kiinnittää maston sijaan veneen ulkolaitaan, jotta eivät tuulessa kilkattaessaan pidä koko venekuntaa ja naapureita hereillä. Myös kireästä dirkistä aiheutuu tuulessa jonkin verran värinöitä veneeseen ja puomin voi halutessaan hyvin laskea yöksi alas jolloin humina helpottuu.
+In port, attach halyards to the hull rather than the mast to prevent them from clanging in the wind and keeping everyone awake. A tight vang also causes some vibration in wind — you can lower the boom overnight to reduce the humming.

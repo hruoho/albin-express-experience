@@ -13,6 +13,36 @@
   </div>
 </section>
 
+{{ with .Params.gallery }}
+<section class="section">
+  <div class="gallery">
+    {{ range . }}
+    <a href="{{ .src | relURL }}" class="gallery__link" target="_blank">
+      <img src="{{ .src | relURL }}" alt="{{ .alt }}" class="gallery__image">
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ with .Params.reviews }}
+<section class="section">
+  {{ with $.Params.rating }}
+  <p class="rating">
+    <span class="rating__score">{{ . }}/10</span>
+    <span class="rating__source">Friilo · {{ $.Params.ratingCount }} {{ if eq $.Lang "fi" }}arvostelua{{ else }}reviews{{ end }}</span>
+  </p>
+  {{ end }}
+  <div class="reviews">
+    {{ range . }}
+    <blockquote class="review">
+      <p>{{ .text }}</p>
+    </blockquote>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
 {{ with .Params.pricing }}
 <section class="section">
   <h2>{{ $.Params.pricingTitle | default "Pricing" }}</h2>
@@ -30,6 +60,9 @@
     </div>
     {{ end }}
   </div>
+  {{ with $.Params.bookingUrl }}
+  <p style="margin-top: 1.5rem;"><a href="{{ . }}" class="btn" target="_blank" rel="noopener">{{ if eq $.Lang "fi" }}Varaa Friilosta{{ else }}Book on Friilo{{ end }}</a></p>
+  {{ end }}
 </section>
 {{ end }}
 

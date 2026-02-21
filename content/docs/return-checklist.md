@@ -1,22 +1,22 @@
 ---
-title: "Veneen palauttaminen"
+title: "Return Checklist"
 weight: 5
-summary: "Palautustoimet, siivous ja tarkistuslista"
+summary: "Return procedures and cleaning"
 ---
 
-## Tarkistuslista
+## Checklist
 
-- Varmista että perä- ja keulaköydet ovat kunnolla kiinni
-- Purjeiden kuivattelu, viikkaus ja peittely (fokka pussiin ja sisälle), köysien niputtaminen
-- Siivous:
-  - Pintojen pyyhintä
-  - Patjojen teippiharjaus
-  - Jääkaapin putsaus
-  - WC-säiliön tyhjennys
-  - Pilssin kuivaus
-- Kannen vesipesu pidemmän reissun jälkeen
-- Sähköt pois pääkytkimestä
-- Varmista kaasupullon hana suljetuksi
-- Keulaluukku kiinni, kulkuluukut kiinni ja lukkoon
-- Valkoinen pressu kulkuaukon päälle sateensuojaksi
-- Avaimen palautus (älä jätä veneeseen)
+- Verify bow and stern lines are properly secured
+- Dry sails, fold and stow (jib into bag and below deck), bundle lines
+- Clean up:
+  - Wipe down surfaces
+  - Lint-roll the mattresses
+  - Clean the fridge
+  - Empty the toilet tank
+  - Dry the bilge
+- Wash the deck with fresh water after a longer trip
+- Turn off power from the main switch
+- Make sure the gas bottle valve is closed
+- Close the forehatch, lock the companionway hatches
+- Place the white tarp over the companionway for rain protection
+- Return keys (never leave them on the boat)

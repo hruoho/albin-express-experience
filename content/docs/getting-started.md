@@ -1,49 +1,49 @@
 ---
-title: "Perustiedot ja kotisatama"
+title: "Getting Started"
 weight: 1
-summary: "Veneen tiedot, kotisatama ja kiinnitys"
+summary: "Vessel specs, home port, and mooring setup"
 ---
 
-## Veneen tiedot
+## Vessel Specifications
 
 | | |
 |---|---|
-| Rekisterinro | L9937 |
-| Pituus | 7,77 m |
-| Leveys | 2,49 m |
-| Syväys | 1,45 m |
-| Maston korkeus | 9,5 m |
+| Registration No. | L9937 |
+| Length | 7.77 m |
+| Beam | 2.49 m |
+| Draft | 1.45 m |
+| Mast height | 9.5 m |
 
 ![Albin Express "Experience"](/images/docs/boat-at-anchor.jpg)
 
-## Kotisatama
+## Home Port
 
-Vene sijaitsee Koivusaaren pursiseuran satamassa keskimmäisellä laiturilla, paikkanumero on 115, naapuriveneet Anna ja Sydney.
+The boat is moored at Koivusaari Sailing Club on the middle dock, slip number 115, between boats Anna and Sydney.
 
-Satamassa on parkkitilaa ja WC (valkoinen bajamaja mastonosturin vieressä), ei juuri muita fasiliteetteja.
+The marina has parking and a WC (white portable toilet near the mast crane), but few other facilities.
 
-Laiturin ovi pidetään jatkuvasti lukittuna, molempiin suuntiin tarvitsee avaimen.
+The dock gate is kept locked at all times — you need a key in both directions.
 
-## Kiinnitysköydet
+## Mooring Lines
 
-Kotisatamassa käytetään kahta ristikkäistä peräköyttä: ankkuriliina on kiinni paapuurin puolella ja sininen muoviköysi styyrpuurin puolella.
+Two crossing stern lines are used at the home berth: an anchor line is attached on the port side and a blue synthetic rope on the starboard side.
 
-Lähtiessä sininen satamaköysi irrotetaan veneestä ja kiinnitetään laituriin. Sinistä köyttä ei siis irroteta poijusta vaan se odottaa paikallaan kun vene palaa satamaan.
+When departing, the blue dock line is detached from the boat and tied to the dock. The blue line is not removed from the buoy — it stays in place waiting for the boat to return.
 
-Sinisen köyden keskivaiheille on sidottu silmukka, josta se on helppo kiinnittää takaknaapiin, sopivalle kireydelle.
+A loop is tied to the middle of the blue line, making it easy to attach to the aft cleat at the right tension.
 
-Keulaköysiin ja ankkuriliinaan on merkitty kotisataman säädöt valmiiksi valkoisella langalla (veneen ulkolaidan mukaan).
+The bow lines and anchor line have home port settings pre-marked with white thread (aligned with the hull).
 
-![Kotisatama ja kiinnitys](/images/docs/marina-mooring-2.jpg)
+![Home port and mooring](/images/docs/marina-mooring-2.jpg)
 
-## Handy Dock -poijuhaka
+## Handy Dock Buoy Hook
 
-Ankkuriliinassa on kiinni Handy Dock -koukku. Jos sen käyttö ei ole tuttua, tutustu siihen etukäteen, jotta saat veneen sujuvasti irti poijusta.
+The anchor line has a Handy Dock hook attached. If you're not familiar with it, get acquainted before departure so you can release the boat from the buoy smoothly.
 
-Haka vetäistään irti koukusta samalla kun koukku kiinnitetään poijuun. Haka jää siis veneeseen ja toimii tavallisena puoshakana. Lähtiessä Handy Dock -koukku avataan nykäisemällä "liipaisimesta" (häkkyrän keskellä oleva reikä) joko puoshaalla tai sormella jos ylettää.
+The grab is pulled away from the hook while the hook is attached to the buoy. The grab stays on the boat and works as a regular boat hook. When departing, the Handy Dock hook is released by pulling the "trigger" (the hole in the centre of the mechanism) with either the boat hook or your finger if you can reach it.
 
-![Handy Dock -koukku ja haka](/images/docs/handy-dock-hook.jpg)
+![Handy Dock hook and grab](/images/docs/handy-dock-hook.jpg)
 
-Ankkuria käytettäessä irrota Handy Dock teräskarabiinista ja kiinnitä ankkuriliina suoraan kettinkiin.
+When using the anchor, detach the Handy Dock from the steel carabiner and connect the anchor line directly to the chain.
 
-![Handy Dock -koukun käyttö (Kippari-lehti)](/images/docs/handy-dock-kippari.jpg)
+![Handy Dock hook usage (Kippari magazine)](/images/docs/handy-dock-kippari.jpg)

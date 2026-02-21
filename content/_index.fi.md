@@ -2,33 +2,59 @@
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express 26 — Helsinki, Suomi"
 heroImage: "images/gallery/VID20220809210814_exported_5763~2.jpg"
-pricingTitle: "Vuokraus & Myynti"
+pricingTitle: "Vuokraus"
 pricing:
   - label: "Päivävuokra"
     title: "Päiväpurjehdus"
-    price: "€XXX"
+    price: "€120"
     details:
       - "Omatoiminen"
       - "Helsingin saaristo"
       - "Perehdytys sisältyy"
-  - label: "Viikonloppu"
-    title: "Viikonloppuvuokra"
-    price: "€XXX"
+  - label: "Viikko"
+    title: "Viikkovuokra"
+    price: "€600"
     details:
-      - "Perjantai-ilta – sunnuntai"
+      - "7 päivää"
       - "Täysi varustelu mukana"
-  - label: "Myydään"
-    title: "Osta"
-    price: "€XX,XXX"
-    details:
-      - "Hyvin huollettu vuodesta 1990"
-      - "Kattava dokumentaatio"
-      - "Koeajo sopimuksen mukaan"
+      - "Paras hinta"
+gallery:
+  - src: "images/gallery/IMG20220803191154.jpg"
+    alt: "Albin Express ankkurissa saaristossa"
+  - src: "images/gallery/IMG20230507140825.jpg"
+    alt: "Hyytin yleiskuva kulkuaukolta"
+  - src: "images/gallery/IMG20230507145003.jpg"
+    alt: "Hyytti peräpeilistä katsottuna"
+  - src: "images/gallery/IMG20230507140136.jpg"
+    alt: "Salonki ja kojetaulu"
+  - src: "images/gallery/IMG20230507140919.jpg"
+    alt: "Keulahyytti"
+  - src: "images/gallery/IMG20230507140932.jpg"
+    alt: "Pentteri"
+  - src: "images/gallery/IMG20230507141049.jpg"
+    alt: "Kaasuhella"
+  - src: "images/gallery/IMG20230507140953.jpg"
+    alt: "Wallas 1300 -lämmitin"
+  - src: "images/gallery/IMG20230507135622.jpg"
+    alt: "Makuupaikka"
+bookingUrl: "https://www.friilo.fi/venevuokraus/albin/express/4863"
+rating: "9.8"
+ratingCount: "10"
+reviews:
+  - text: "Mahtavasti purjehtii ja hyvin purjeiluun suunniteltu vene. Kaikki toimi, aika meinaa jokaisella reissulla loppua kesken."
+  - text: "Tämän kanssa asiointi oli helppoa ja mukavaa ja vene purjehti hyvn."
+  - text: "Toimi erinomaisesti purjehtien ja saimme turvallisen kokemuksen."
 contactTitle: "Ota yhteyttä"
-contactText: "Kiinnostaako vuokraus tai osto? Laita viestiä."
+contactText: "Varaa Friilon (ent. Skipperi) kautta tai ota suoraan yhteyttä."
 contactPhone: "+358 XX XXX XXXX"
 ---
 
-Ketterä ja pidetty purjevene, rakennettu pohjoismaiseen saaristoon. Albin Express on 26-jalkanen ruotsalainen klassikko — nopea, merikelpoinen ja helppo käsitellä yksin.
+Hyvin varusteltu, vauhdikas retkivene, jolla on ilo purjehtia niin kevyellä kuin navakammallakin kelillä. Hyvä valinta muutaman hengen retkipurjehduksille, kunhan purjehduskokemusta on ehtinyt hiukan kertyä. Vene on herkkäliikkeinen ja parhaimmillaan tarkkaavaisen miehistön käsissä.
 
-Tämä vene on huolellisesti ylläpidetty ja dokumentoitu. Selaa [lokikirjaa](/fi/logbook/) purjehduskertomuksia varten, tai tutustu [dokumentaatioon](/fi/docs/) käyttöopasta varten.
+Kyseessä paranneltu juhlamalli Albin Express "Jubilee" vuodelta 1990, jossa useimmista Expresseistä poiketen löytyy kiinteä pentteri, vesitankki, allas ja hana sekä nestekaasu- ja maasähköjärjestelmät. Retkeilyä varten veneessä on lisäksi kunnollinen kompressorikylmälaukku, kemiallinen WC ja lämmityslaite.
+
+Perämoottorina luotettava 8 hv Yamaha isolapaisella potkurilla, jolla vene kääntyy kivasti ahtaissakin satamissa.
+
+Köydet, ankkuri ja kalliokiilat löytyy luonnollisesti myös.
+
+Selaa [lokikirjaa](/fi/logbook/) purjehduskertomuksia varten, tai tutustu [dokumentaatioon](/fi/docs/) käyttöopasta varten.

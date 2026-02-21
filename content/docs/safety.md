@@ -1,31 +1,31 @@
 ---
-title: "Hätävarusteet ja työkalut"
+title: "Safety Equipment"
 weight: 4
-summary: "Turvavarusteet, merkkikuviot ja läpiviennit"
+summary: "Emergency gear, signal devices, and through-hulls"
 ---
 
-![Pelastusrengas, hätävarusteet ja läpivienti](/images/docs/safety-equipment.jpg)
+![Rescue ring, emergency supplies, and through-hull](/images/docs/safety-equipment.jpg)
 
-## Kansivarusteet
+## Deck Equipment
 
-Veneen peräkaiteeseen on kiinnitetty:
-- Pelastusrengas
-- Pelastusrenkaan valo
-- Laahusankkuri
-- Heittoliina
+Attached to the stern rail:
+- Rescue ring
+- Rescue ring light
+- Drogue anchor
+- Heaving line
 
-## Sisävarusteet
+## Stored Equipment
 
-- **Soihdut, raketit, torvi ja puutapit** — styyrpuurin puolelta hyllystä
-- **Voimapihdit** — styyrpuurin puolelta alalokerosta
-- **Merkkikuviot** (ankkuripallo ja moottoriajokolmio) — peräluukusta hyllyltä
-- **Ensiapulaukku ja palosammutuspeite** — paapuurin puolelta hyllystä
-- **Palosammutin** — paapuurin puolelta pistopunkan seinältä. Toinen, katsastamaton, on pentterin takana kaasuhanan vieressä.
+- **Flares, rockets, horn, and wooden plugs** — starboard shelf
+- **Bolt cutters** — starboard lower compartment
+- **Day shapes** (anchor ball and motoring cone) — rear locker shelf
+- **First aid kit and fire blanket** — port shelf
+- **Fire extinguisher** — port side on the quarter berth wall. A second one (uncertified) is behind the galley stove near the gas valve.
 
-## Läpiviennit
+## Through-Hulls
 
-Veneessä on kolme läpivientiä:
-- Kaksi takana peräluukun pohjalla
-- Yksi styyrpuurin puolella kyljessä, heti keulapiikin kulkuaukon jälkeen
+There are three through-hull fittings:
+- Two at the bottom of the rear locker
+- One on the starboard side, just aft of the forepeak access
 
-Takimmaiset läpiviennit on hyvä vilkaista vuotojen varalta samalla kun peräluukusta kaivaa jotain.
+It's good practice to check the rear through-hulls for leaks whenever you're rummaging in the aft locker.

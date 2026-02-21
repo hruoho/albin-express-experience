@@ -1,5 +1,5 @@
 ---
-title: "Dokumentaatio"
+title: "Documentation"
 ---
 
-Kaikki mitä tarvitset Albin Express "Experience" -purjeveneen käyttöön. Lue ainakin tärkeimmät osiot läpi ennen ensimmäistä purjehdusta.
+Everything you need to know to sail, maintain, and enjoy the Albin Express "Experience". Read through the most relevant sections before your first sail.
