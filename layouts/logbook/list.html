@@ -7,7 +7,7 @@
     {{ range .Pages.ByDate.Reverse }}
     <a href="{{ .RelPermalink }}" class="logbook-card" style="color: inherit; border-bottom: none;">
       {{ with .Params.images }}
-      <img src="{{ index . 0 | printf "/images/%s" | relURL }}" alt="{{ $.Title }}" class="logbook-card__image">
+      <img src="{{ index . 0 | printf "images/%s" | relURL }}" alt="{{ $.Title }}" class="logbook-card__image">
       {{ end }}
       <div class="logbook-card__body">
         <p class="logbook-card__date">

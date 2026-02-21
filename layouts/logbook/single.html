@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ with (index .Params.images 0) }}
-<img src="{{ . | printf "/images/%s" | relURL }}" alt="{{ $.Title }}" class="entry-hero">
+<img src="{{ . | printf "images/%s" | relURL }}" alt="{{ $.Title }}" class="entry-hero">
 {{ end }}
 
 <article class="section section--narrow">
@@ -17,7 +17,7 @@
   {{ if gt (len .) 1 }}
   <div style="margin-top: 2rem;">
     {{ range (after 1 .) }}
-    <img src="{{ . | printf "/images/%s" | relURL }}" alt="" style="width: 100%; margin-bottom: 1.5rem;">
+    <img src="{{ . | printf "images/%s" | relURL }}" alt="" style="width: 100%; margin-bottom: 1.5rem;">
     {{ end }}
   </div>
   {{ end }}
