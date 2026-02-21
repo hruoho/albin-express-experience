@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ with (index .Params.images 0) }}
+<img src="{{ . | printf "/images/%s" | relURL }}" alt="{{ $.Title }}" class="entry-hero">
+{{ end }}
+
+<article class="section section--narrow">
+  <p class="entry-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+    {{ with .Params.entry_type }}· {{ . }}{{ end }}
+  </p>
+  <h1>{{ .Title }}</h1>
+  <div class="entry-content">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.images }}
+  {{ if gt (len .) 1 }}
+  <div style="margin-top: 2rem;">
+    {{ range (after 1 .) }}
+    <img src="{{ . | printf "/images/%s" | relURL }}" alt="" style="width: 100%; margin-bottom: 1.5rem;">
+    {{ end }}
+  </div>
+  {{ end }}
+  {{ end }}
+</article>
+{{ end }}

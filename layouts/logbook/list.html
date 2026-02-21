@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="section">
+  <h1>{{ .Title }}</h1>
+  <p class="label">{{ len .Pages }} {{ if eq (len .Pages) 1 }}entry{{ else }}entries{{ end }}</p>
+
+  <div class="logbook-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    <a href="{{ .RelPermalink }}" class="logbook-card" style="color: inherit; border-bottom: none;">
+      {{ with .Params.images }}
+      <img src="{{ index . 0 | printf "/images/%s" | relURL }}" alt="{{ $.Title }}" class="logbook-card__image">
+      {{ end }}
+      <div class="logbook-card__body">
+        <p class="logbook-card__date">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+          {{ with .Params.entry_type }}· <span class="label">{{ . }}</span>{{ end }}
+        </p>
+        <h3 class="logbook-card__title">{{ .Title }}</h3>
+        <p class="logbook-card__summary">{{ .Params.summary }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
