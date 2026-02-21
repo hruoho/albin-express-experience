@@ -1,11 +1,48 @@
 {{ define "main" }}
 <section class="hero">
-  <img src="{{ (.Params.heroImage | default "images/gallery/hero.jpg") | relURL }}" alt="Albin Express under sail" class="hero__image">
+  {{ with .Params.heroSlides }}
+  {{ range $i, $slide := . }}
+  {{ if $slide.video }}
+  <video class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}" muted playsinline loop>
+    <source src="{{ $slide.src | relURL }}" type="video/mp4">
+  </video>
+  {{ else }}
+  <img src="{{ $slide.src | relURL }}" alt="{{ $slide.alt }}" class="hero__slide{{ if eq $i 0 }} hero__slide--active{{ end }}">
+  {{ end }}
+  {{ end }}
+  {{ else }}
+  <img src="{{ (.Params.heroImage | default "images/gallery/hero.jpg") | relURL }}" alt="Albin Express under sail" class="hero__slide hero__slide--active">
+  {{ end }}
   <div class="hero__overlay">
     <h1 class="hero__title">{{ .Title }}</h1>
     <p class="hero__subtitle">{{ .Params.subtitle }}</p>
   </div>
 </section>
+
+{{ with .Params.heroSlides }}
+<script>
+(function() {
+  var slides = document.querySelectorAll('.hero__slide');
+  if (slides.length < 2) return;
+  var current = 0;
+  function next() {
+    var cur = slides[current];
+    current = (current + 1) % slides.length;
+    var nxt = slides[current];
+    if (nxt.tagName === 'VIDEO') nxt.play();
+    nxt.classList.add('hero__slide--active');
+    cur.classList.remove('hero__slide--active');
+    if (cur.tagName === 'VIDEO') { cur.pause(); cur.currentTime = 0; }
+    var duration = nxt.tagName === 'VIDEO' ? (nxt.duration || 8) * 1000 : 6000;
+    setTimeout(next, duration);
+  }
+  var first = slides[0];
+  if (first.tagName === 'VIDEO') first.play();
+  var startDuration = first.tagName === 'VIDEO' ? (first.duration || 8) * 1000 : 6000;
+  setTimeout(next, startDuration);
+})();
+</script>
+{{ end }}
 
 <section class="section">
   <div class="section--narrow">

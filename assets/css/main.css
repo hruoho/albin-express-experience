@@ -254,12 +254,18 @@ a:hover {
   overflow: hidden;
 }
 
-.hero__image {
+.hero__slide {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  opacity: 0;
+  transition: opacity 1.5s ease;
+}
+
+.hero__slide--active {
+  opacity: 1;
 }
 
 .hero__overlay {

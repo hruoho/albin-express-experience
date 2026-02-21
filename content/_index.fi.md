@@ -1,7 +1,17 @@
 ---
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express 26 — Helsinki, Suomi"
-heroImage: "images/gallery/VID20220809210814_exported_5763~2.jpg"
+heroSlides:
+  - src: "images/gallery/VID20220809210814_exported_5763~2.jpg"
+    alt: "Albin Express purjehtimassa auringonlaskussa"
+  - src: "videos/VID_20210721_200427.mp4"
+    video: true
+  - src: "images/gallery/IMG20220803191154.jpg"
+    alt: "Ankkurissa saaristossa"
+  - src: "videos/VID20220809210640.mp4"
+    video: true
+  - src: "videos/VID_20210904_115803_01.mp4"
+    video: true
 pricingTitle: "Vuokraus"
 pricing:
   - label: "Päivävuokra"
