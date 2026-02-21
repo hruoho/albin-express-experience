@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="docs-layout">
+  <aside class="docs-sidebar">
+    <p class="docs-sidebar__title">Documentation</p>
+    <ul>
+      {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </aside>
+  <div class="docs-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <ul style="margin-top: 1.5rem; list-style: none;">
+      {{ range .Pages }}
+      <li style="margin-bottom: 0.75rem;">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Params.summary }}<br><span style="font-size: 0.85rem; color: var(--color-teal);">{{ . }}</span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
