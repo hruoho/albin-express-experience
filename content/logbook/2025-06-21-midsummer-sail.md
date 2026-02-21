@@ -3,7 +3,8 @@ title: "Midsummer Sail to Hanko"
 date: 2025-06-21
 entry_type: trip
 images:
-  - gallery/hero.jpg
+  - gallery/IMG_20210721_214315.jpg
+  - gallery/IMG_20210905_084917.jpg
 summary: "First overnight of the season. Light SW winds, perfect conditions."
 ---
 

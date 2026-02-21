@@ -1,6 +1,6 @@
 {{ define "main" }}
 <section class="hero">
-  <img src="{{ "images/gallery/hero.jpg" | relURL }}" alt="Albin Express under sail" class="hero__image">
+  <img src="{{ (.Params.heroImage | default "images/gallery/hero.jpg") | relURL }}" alt="Albin Express under sail" class="hero__image">
   <div class="hero__overlay">
     <h1 class="hero__title">{{ .Title }}</h1>
     <p class="hero__subtitle">{{ .Params.subtitle }}</p>

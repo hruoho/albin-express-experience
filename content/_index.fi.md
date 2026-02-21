@@ -1,6 +1,7 @@
 ---
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express 26 — Helsinki, Suomi"
+heroImage: "images/gallery/VID20220809210814_exported_5763~2.jpg"
 pricingTitle: "Vuokraus & Myynti"
 pricing:
   - label: "Päivävuokra"
