@@ -1,6 +1,6 @@
 baseURL = "https://albin-express-experience.pages.dev/"
 languageCode = "en"
-title = "Albin Express Experience"
+title = "Albin Express 'Experience'"
 
 defaultContentLanguage = "en"
 
@@ -41,5 +41,5 @@ defaultContentLanguage = "en"
 [taxonomies]
 
 [params]
-  description = "1990 Albin Express — Charter & Sale"
-  contactEmail = "REPLACE_ME"
+  description = "1990 Albin Express Jubilee 'Experience'"
+  contactEmail = "henri.ruoho@gmail.com"
