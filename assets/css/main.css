@@ -345,32 +345,57 @@ a:hover {
 
 /* --- Logbook List --- */
 
-.logbook-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
+.logbook-list {
   margin-top: 2rem;
 }
 
-.logbook-card {
+.logbook-item {
+  display: flex;
+  gap: 1.5rem;
   border: 1px solid var(--color-sand);
+  color: inherit;
   overflow: hidden;
   transition: border-color 0.2s;
 }
 
-.logbook-card:hover {
-  border-color: var(--color-gold);
+.logbook-item + .logbook-item {
+  margin-top: 1rem;
 }
 
-.logbook-card__image {
-  width: 100%;
-  aspect-ratio: 3 / 2;
+.logbook-item:hover {
+  border: 1px solid var(--color-gold);
+}
+
+.logbook-item__image {
+  width: 240px;
+  min-height: 180px;
   object-fit: cover;
   display: block;
+  flex-shrink: 0;
 }
 
-.logbook-card__body {
-  padding: 1rem 1.2rem;
+.logbook-item__body {
+  padding: 1rem 1.2rem 1rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (max-width: 700px) {
+  .logbook-item {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .logbook-item__image {
+    width: 100%;
+    min-height: auto;
+    aspect-ratio: 3 / 2;
+  }
+
+  .logbook-item__body {
+    padding: 1rem 1.2rem;
+  }
 }
 
 .logbook-card__date {
