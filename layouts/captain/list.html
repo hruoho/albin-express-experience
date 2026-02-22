@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ with .Params.image }}
+<img src="{{ . | relURL }}" alt="{{ $.Title }}" class="entry-hero">
+{{ end }}
+<section class="section">
+  <div class="section--narrow">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ with .Params.ctaText }}
+    <p style="margin-top: 2rem;"><a href="{{ $.Params.ctaUrl }}" class="btn" target="_blank" rel="noopener">{{ . }}</a></p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
