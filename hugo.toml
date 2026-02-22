@@ -18,9 +18,13 @@ defaultContentLanguage = "en"
         pageRef = "/logbook"
         weight = 2
       [[languages.en.menus.main]]
+        name = "Captain"
+        pageRef = "/captain"
+        weight = 3
+      [[languages.en.menus.main]]
         name = "Docs"
         pageRef = "/docs"
-        weight = 3
+        weight = 4
   [languages.fi]
     languageName = "FI"
     weight = 2
@@ -34,9 +38,13 @@ defaultContentLanguage = "en"
         pageRef = "/logbook"
         weight = 2
       [[languages.fi.menus.main]]
+        name = "Kippari"
+        pageRef = "/captain"
+        weight = 3
+      [[languages.fi.menus.main]]
         name = "Dokumentaatio"
         pageRef = "/docs"
-        weight = 3
+        weight = 4
 
 [taxonomies]
 
