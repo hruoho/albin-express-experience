@@ -10,13 +10,9 @@ defaultContentLanguage = "en"
     weight = 1
     [languages.en.menus]
       [[languages.en.menus.main]]
-        name = "Home"
-        pageRef = "/"
-        weight = 1
-      [[languages.en.menus.main]]
         name = "Logbook"
         pageRef = "/logbook"
-        weight = 2
+        weight = 1
       [[languages.en.menus.main]]
         name = "Captain"
         pageRef = "/captain"
@@ -30,13 +26,9 @@ defaultContentLanguage = "en"
     weight = 2
     [languages.fi.menus]
       [[languages.fi.menus.main]]
-        name = "Koti"
-        pageRef = "/"
-        weight = 1
-      [[languages.fi.menus.main]]
         name = "Lokikirja"
         pageRef = "/logbook"
-        weight = 2
+        weight = 1
       [[languages.fi.menus.main]]
         name = "Kippari"
         pageRef = "/captain"

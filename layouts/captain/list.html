@@ -5,7 +5,7 @@
     {{ with .Params.image }}
     {{ $img := resources.Get . }}
     {{ if $img }}
-    {{ $photo := $img.Fill "300x300 webp" }}
+    {{ $photo := $img.Fill "360x360 webp" }}
     <a href="{{ $img.RelPermalink }}" target="_blank"><img src="{{ $photo.RelPermalink }}" alt="{{ $.Title }}" class="captain__photo" width="{{ $photo.Width }}" height="{{ $photo.Height }}"></a>
     {{ end }}
     {{ end }}
