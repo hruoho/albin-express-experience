@@ -28,6 +28,13 @@ pricing:
       - "7 days"
       - "Full equipment included"
       - "Best value"
+  - label: "Evening Sail"
+    title: "Evening Sail"
+    price: "€50/person"
+    details:
+      - "With the captain"
+      - "2–3 hours"
+      - "Max 4 guests"
 gallery:
   - src: "images/gallery/IMG_20210905_084917.jpg"
     alt: "Albin Express Träskössä"

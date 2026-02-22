@@ -28,6 +28,13 @@ pricing:
       - "7 päivää"
       - "Täysi varustelu mukana"
       - "Paras hinta"
+  - label: "Iltapurjehdus"
+    title: "Iltapurjehdus"
+    price: "€50/hlö"
+    details:
+      - "Kipparin kanssa"
+      - "2–3 tuntia"
+      - "Max 4 vierasta"
 gallery:
   - src: "images/gallery/IMG_20210905_084917.jpg"
     alt: "Albin Express Träskössä"

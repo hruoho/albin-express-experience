@@ -112,6 +112,7 @@
   </div>
   {{ with $.Params.bookingUrl }}
   <p style="margin-top: 1.5rem;"><a href="{{ . }}" class="btn" target="_blank" rel="noopener">{{ if eq $.Lang "fi" }}Varaa Friilosta{{ else }}Book on Friilo{{ end }}</a></p>
+  <p style="margin-top: 0.75rem; font-size: 0.9rem;">{{ if eq $.Lang "fi" }}Iltapurjehdukset: varaa Friilosta tai <a href="mailto:{{ $.Site.Params.contactEmail }}">ota suoraan yhteyttä</a>.{{ else }}Evening sails: book on Friilo or <a href="mailto:{{ $.Site.Params.contactEmail }}">get in touch directly</a>.{{ end }}</p>
   {{ end }}
 </section>
 {{ end }}
