@@ -1,6 +1,6 @@
 ---
 title: "Albin Express Experience"
-subtitle: "1990 Albin Express 26 — Helsinki, Suomi"
+subtitle: "1990 Albin Express Jubilee — Helsinki, Suomi"
 heroSlides:
   - src: "videos/PXL_20240813_121305671.LS.mp4"
     video: true
