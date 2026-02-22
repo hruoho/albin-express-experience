@@ -473,6 +473,30 @@ a:hover {
   border: 1px solid var(--color-sand);
 }
 
+/* --- Captain --- */
+
+.captain__photo {
+  float: right;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 1px solid var(--color-sand);
+  margin: 0 0 1rem 1.5rem;
+  transition: transform 0.3s;
+}
+
+.captain__photo:hover {
+  transform: scale(1.03);
+}
+
+@media (max-width: 700px) {
+  .captain__photo {
+    float: none;
+    display: block;
+    margin: 0 0 1.5rem 0;
+  }
+}
+
 /* --- Footer --- */
 
 .site-footer {

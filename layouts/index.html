@@ -67,9 +67,13 @@
 <section class="section">
   <div class="gallery">
     {{ range . }}
-    <a href="{{ .src | relURL }}" class="gallery__link" target="_blank">
-      <img src="{{ .src | relURL }}" alt="{{ .alt }}" class="gallery__image">
+    {{ $img := resources.Get .src }}
+    {{ if $img }}
+    {{ $thumb := $img.Fill "400x300 webp" }}
+    <a href="{{ $img.RelPermalink }}" class="gallery__link" target="_blank">
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ .alt }}" class="gallery__image" loading="lazy" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
     </a>
+    {{ end }}
     {{ end }}
   </div>
 </section>
