@@ -14,7 +14,7 @@ summary: "Vessel specs, home port, and mooring setup"
 | Draft | 1.45 m |
 | Mast height | 9.5 m |
 
-![Albin Express "Experience"](/images/docs/boat-at-anchor.jpg)
+Full specs [here](https://sailboatdata.com/sailboat/albin-express/?units=metric).
 
 ## Home Port
 
@@ -23,6 +23,8 @@ The boat is moored at Koivusaari Sailing Club on the middle dock, slip number 11
 The marina has parking and a WC (white portable toilet near the mast crane), but few other facilities.
 
 The dock gate is kept locked at all times — you need a key in both directions.
+
+![Albin Express "Experience"](/images/docs/kopussa.jpg)
 
 ## Mooring Lines
 

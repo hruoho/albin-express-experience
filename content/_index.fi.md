@@ -70,12 +70,9 @@ bookingUrl: "https://www.friilo.fi/venevuokraus/albin/express/4863"
 rating: "9.8"
 ratingCount: "10"
 reviews:
-  - text: "Mahtavasti purjehtii ja hyvin purjeiluun suunniteltu vene. Kaikki toimi, aika meinaa jokaisella reissulla loppua kesken."
-  - text: "Tämän kanssa asiointi oli helppoa ja mukavaa ja vene purjehti hyvn."
-  - text: "Toimi erinomaisesti purjehtien ja saimme turvallisen kokemuksen."
-contactTitle: "Ota yhteyttä"
-contactText: "Varaa Friilon (ent. Skipperi) kautta tai ota suoraan yhteyttä."
-contactPhone: "+358 XX XXX XXXX"
+  - text: "Teimme päiväpurjehduksia Helsingistä. Vene on erinomainen purjehtia ja samalla turvallisen tuntuinen. Säätömahdollisuuksia kiinnostuneelle riittää. Perämoottori toimii hyvin mutta kannattaa käynnistää hiukan ennen tositarvetta. Purjehdus- ja veneilyvarustus on kunnossa. Asumisen varustukseen emme juuri tutustuneet."
+  - text: "Hienokuntoinen ja hyvin purjehtiva pieni vene. Kaikki toimi, eikä mitään yllätyksiä ollut. Tavarat ovat hyvin sijoiteltu ja vene on kaikin puolin siisti. Henrin kanssa kommunikaatio toimii."
+  - text: "Alles okay. Das Boot war für zwei Wochen und 2-4 Personen genau richtig."
 ---
 
 Hyvin varusteltu, vauhdikas retkivene, jolla on ilo purjehtia niin kevyellä kuin navakammallakin kelillä. Hyvä valinta muutaman hengen retkipurjehduksille, kunhan purjehduskokemusta on ehtinyt hiukan kertyä. Vene on herkkäliikkeinen ja parhaimmillaan tarkkaavaisen miehistön käsissä.
@@ -84,6 +81,6 @@ Kyseessä paranneltu juhlamalli Albin Express "Jubilee" vuodelta 1990, jossa use
 
 Perämoottorina luotettava 8 hv Yamaha isolapaisella potkurilla, jolla vene kääntyy kivasti ahtaissakin satamissa.
 
-Köydet, ankkuri ja kalliokiilat löytyy luonnollisesti myös.
+Spinaakkerivarustus ja myrskyfokka käytettävissä.
 
 Selaa [lokikirjaa](/fi/logbook/) purjehduskertomuksia varten, tai tutustu [dokumentaatioon](/fi/docs/) käyttöopasta varten.

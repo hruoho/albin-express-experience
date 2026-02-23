@@ -70,7 +70,7 @@
     {{ $img := resources.Get .src }}
     {{ if $img }}
     {{ $thumb := $img.Fill "480x360 webp" }}
-    <a href="{{ $img.RelPermalink }}" class="gallery__link" target="_blank">
+    <a href="{{ $img.RelPermalink }}" class="gallery__link" data-lightbox>
       <img src="{{ $thumb.RelPermalink }}" alt="{{ .alt }}" class="gallery__image" loading="lazy">
     </a>
     {{ end }}
@@ -121,14 +121,12 @@
 </section>
 {{ end }}
 
-<section class="section">
-  <h2>{{ .Params.contactTitle | default "Contact" }}</h2>
-  <div class="section--narrow">
-    <p>{{ .Params.contactText }}</p>
-    <p><a href="mailto:{{ .Site.Params.contactEmail }}">{{ .Site.Params.contactEmail }}</a></p>
-    {{ with .Params.contactPhone }}
-    <p><a href="tel:{{ . }}">{{ . }}</a></p>
-    {{ end }}
-  </div>
-</section>
+<div class="lightbox" id="lightbox">
+  <button class="lightbox__close" aria-label="Close">&times;</button>
+  <button class="lightbox__prev" aria-label="Previous">&lsaquo;</button>
+  <button class="lightbox__next" aria-label="Next">&rsaquo;</button>
+  <img class="lightbox__img" alt="">
+</div>
+{{- $lb := resources.Get "js/lightbox.js" | minify | fingerprint }}
+<script src="{{ $lb.RelPermalink }}" defer></script>
 {{ end }}

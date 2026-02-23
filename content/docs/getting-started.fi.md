@@ -14,7 +14,7 @@ summary: "Veneen tiedot, kotisatama ja kiinnitys"
 | Syväys | 1,45 m |
 | Maston korkeus | 9,5 m |
 
-![Albin Express "Experience"](/images/docs/boat-at-anchor.jpg)
+Tarkemmat speksit [täällä](https://sailboatdata.com/sailboat/albin-express/?units=metric).
 
 ## Kotisatama
 
@@ -23,6 +23,8 @@ Vene sijaitsee Koivusaaren pursiseuran satamassa keskimmäisellä laiturilla, pa
 Satamassa on parkkitilaa ja WC (valkoinen bajamaja mastonosturin vieressä), ei juuri muita fasiliteetteja.
 
 Laiturin ovi pidetään jatkuvasti lukittuna, molempiin suuntiin tarvitsee avaimen.
+
+![Albin Express "Experience"](/images/docs/kopussa.jpg)
 
 ## Kiinnitysköydet
 

@@ -2,17 +2,19 @@
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express Jubilee — Helsinki, Finland"
 heroSlides:
-  - src: "videos/PXL_20240813_121305671.LS.mp4"
+  - src: "videos/auringonlasku-paapuuri.mp4"
     video: true
-  - src: "videos/PXL_20240818_100544971.LS~2.mp4"
+  - src: "videos/keskipaiva-part1.mp4"
     video: true
-  - src: "videos/VID_20200716_214753_01_01~2.mp4"
+  - src: "videos/anna-skiglaa.mp4"
     video: true
-  - src: "videos/VID_20210904_115803~2.mp4"
+  - src: "videos/tyyni-ilta-ylatuuli.mp4"
     video: true
-  - src: "videos/VID20220809210758~2.mp4"
+  - src: "videos/porkkalasta-himaan.mp4"
     video: true
-pricingTitle: "Charter"
+  - src: "videos/kohti-saaristomerta.mp4"
+    video: true
+pricingTitle: "Evening Sail & Charter"
 pricing:
   - label: "Day Charter"
     title: "Day Sail"
@@ -70,12 +72,9 @@ bookingUrl: "https://www.friilo.fi/venevuokraus/albin/express/4863"
 rating: "9.8"
 ratingCount: "10"
 reviews:
-  - text: "Mahtavasti purjehtii ja hyvin purjeiluun suunniteltu vene. Kaikki toimi, aika meinaa jokaisella reissulla loppua kesken."
-  - text: "Tämän kanssa asiointi oli helppoa ja mukavaa ja vene purjehti hyvn."
-  - text: "Toimi erinomaisesti purjehtien ja saimme turvallisen kokemuksen."
-contactTitle: "Get in Touch"
-contactText: "Book through Friilo (ex. Skipperi) or get in touch directly."
-contactPhone: "+358 XX XXX XXXX"
+  - text: "Teimme päiväpurjehduksia Helsingistä. Vene on erinomainen purjehtia ja samalla turvallisen tuntuinen. Säätömahdollisuuksia kiinnostuneelle riittää. Perämoottori toimii hyvin mutta kannattaa käynnistää hiukan ennen tositarvetta. Purjehdus- ja veneilyvarustus on kunnossa. Asumisen varustukseen emme juuri tutustuneet."
+  - text: "Hienokuntoinen ja hyvin purjehtiva pieni vene. Kaikki toimi, eikä mitään yllätyksiä ollut. Tavarat ovat hyvin sijoiteltu ja vene on kaikin puolin siisti. Henrin kanssa kommunikaatio toimii."
+  - text: "Alles okay. Das Boot war für zwei Wochen und 2-4 Personen genau richtig."
 ---
 
 A well-equipped, spirited cruiser — a joy to sail in light airs and fresh winds alike. A great choice for small crew cruising, provided you have some sailing experience under your belt. The boat is responsive and at her best in the hands of an attentive crew.
@@ -84,6 +83,6 @@ This is the enhanced Albin Express "Jubilee" celebration model from 1990. Unlike
 
 The outboard is a reliable 8 hp Yamaha with a large-diameter propeller — she turns nicely even in tight harbours.
 
-Lines, anchor, and rock wedges are naturally included.
+Spinnaker and a storm fock included.
 
 Browse the [logbook](/logbook/) for sailing stories, or check the [documentation](/docs/) for the full owner's manual.
