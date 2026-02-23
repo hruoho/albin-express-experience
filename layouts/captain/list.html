@@ -5,8 +5,8 @@
     {{ with .Params.image }}
     {{ $img := resources.Get . }}
     {{ if $img }}
-    {{ $photo := $img.Fill "360x360 webp" }}
-    <a href="{{ $img.RelPermalink }}" target="_blank"><img src="{{ $photo.RelPermalink }}" alt="{{ $.Title }}" class="captain__photo" width="{{ $photo.Width }}" height="{{ $photo.Height }}"></a>
+    {{ $photo := $img.Fill "432x432 webp" }}
+    <a href="{{ $img.RelPermalink }}" target="_blank"><img src="{{ $photo.RelPermalink }}" alt="{{ $.Title }}" class="captain__photo"></a>
     {{ end }}
     {{ end }}
     {{ .Content }}

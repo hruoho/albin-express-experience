@@ -69,9 +69,9 @@
     {{ range . }}
     {{ $img := resources.Get .src }}
     {{ if $img }}
-    {{ $thumb := $img.Fill "400x300 webp" }}
+    {{ $thumb := $img.Fill "480x360 webp" }}
     <a href="{{ $img.RelPermalink }}" class="gallery__link" target="_blank">
-      <img src="{{ $thumb.RelPermalink }}" alt="{{ .alt }}" class="gallery__image" loading="lazy" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ .alt }}" class="gallery__image" loading="lazy">
     </a>
     {{ end }}
     {{ end }}

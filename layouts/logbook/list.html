@@ -9,8 +9,8 @@
       {{ with .Params.images }}
       {{ $img := resources.Get (printf "images/%s" (index . 0)) }}
       {{ if $img }}
-      {{ $thumb := $img.Fill "240x180 webp" }}
-      <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" class="logbook-item__image" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}">
+      {{ $thumb := $img.Fill "288x216 webp" }}
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ $.Title }}" class="logbook-item__image">
       {{ end }}
       {{ end }}
       <div class="logbook-item__body">
