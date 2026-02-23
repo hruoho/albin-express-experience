@@ -528,6 +528,74 @@ a:hover {
   }
 }
 
+/* --- Lightbox --- */
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(27, 40, 56, 0.92);
+  align-items: center;
+  justify-content: center;
+}
+
+.lightbox--active {
+  display: flex;
+}
+
+.lightbox__img {
+  max-width: calc(100vw - 6rem);
+  max-height: calc(100vh - 6rem);
+  object-fit: contain;
+  display: block;
+}
+
+.lightbox__close,
+.lightbox__prev,
+.lightbox__next {
+  position: absolute;
+  background: none;
+  border: 1px solid rgba(213, 207, 189, 0.3);
+  color: var(--color-sand);
+  font-family: var(--font-heading);
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  line-height: 1;
+}
+
+.lightbox__close:hover,
+.lightbox__prev:hover,
+.lightbox__next:hover {
+  background: rgba(213, 207, 189, 0.15);
+  border-color: var(--color-sand);
+}
+
+.lightbox__close {
+  top: 1.5rem;
+  right: 1.5rem;
+  font-size: 1.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+.lightbox__prev,
+.lightbox__next {
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  width: 2.5rem;
+  height: 3.5rem;
+}
+
+.lightbox__prev {
+  left: 1rem;
+}
+
+.lightbox__next {
+  right: 1rem;
+}
+
 /* --- Footer --- */
 
 .site-footer {
