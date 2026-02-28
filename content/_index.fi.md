@@ -2,15 +2,17 @@
 title: "Albin Express Experience"
 subtitle: "1990 Albin Express Jubilee — Helsinki, Suomi"
 heroSlides:
-  - src: "videos/PXL_20240813_121305671.LS.mp4"
+  - src: "videos/auringonlasku-paapuuri.mp4"
     video: true
-  - src: "videos/PXL_20240818_100544971.LS~2.mp4"
+  - src: "videos/keskipaiva-part1.mp4"
     video: true
-  - src: "videos/VID_20200716_214753_01_01~2.mp4"
+  - src: "videos/anna-skiglaa.mp4"
     video: true
-  - src: "videos/VID_20210904_115803~2.mp4"
+  - src: "videos/helsingholmeniin.mp4"
     video: true
-  - src: "videos/VID20220809210758~2.mp4"
+  - src: "videos/kohti-saaristomerta.mp4"
+    video: true
+  - src: "videos/auringonlasku-hki.mp4"
     video: true
 pricingTitle: "Vuokraus"
 pricing:

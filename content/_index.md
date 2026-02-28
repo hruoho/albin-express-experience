@@ -8,11 +8,11 @@ heroSlides:
     video: true
   - src: "videos/anna-skiglaa.mp4"
     video: true
-  - src: "videos/tyyni-ilta-ylatuuli.mp4"
-    video: true
-  - src: "videos/porkkalasta-himaan.mp4"
+  - src: "videos/helsingholmeniin.mp4"
     video: true
   - src: "videos/kohti-saaristomerta.mp4"
+    video: true
+  - src: "videos/auringonlasku-hki.mp4"
     video: true
 pricingTitle: "Evening Sail & Charter"
 pricing:
