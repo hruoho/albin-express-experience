@@ -84,5 +84,3 @@ This is the enhanced Albin Express "Jubilee" celebration model from 1990. Unlike
 The outboard is a Mariner 5 hp with a large-diameter propeller — she turns nicely even in tight harbours.
 
 Spinnaker and a storm fock included.
-
-Browse the [logbook](/logbook/) for sailing stories, or check the [documentation](/docs/) for the full owner's manual.

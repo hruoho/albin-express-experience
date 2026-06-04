@@ -1,5 +1,6 @@
 ---
 title: "The Captain"
+draft: true
 image: "images/captain/captain.jpg"
 ctaText: "Book an Evening Sail"
 ctaUrl: "https://www.friilo.fi/venevuokraus/albin/express/4863"

@@ -3,7 +3,9 @@
     <a href="{{ .Site.Home.RelPermalink }}" class="nav__logo">Albin Express <em>Experience</em></a>
     <ul class="nav__links">
       {{- range .Site.Menus.main }}
+      {{- if .Page }}
       <li><a href="{{ .URL }}" class="nav__link">{{ .Name }}</a></li>
+      {{- end }}
       {{- end }}
     </ul>
     <div class="nav__lang">

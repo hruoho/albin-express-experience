@@ -84,5 +84,3 @@ Kyseessä paranneltu juhlamalli Albin Express "Jubilee" vuodelta 1990, jossa use
 Perämoottorina Mariner 5 hv isolapaisella potkurilla, jolla vene kääntyy kivasti ahtaissakin satamissa.
 
 Spinaakkerivarustus ja myrskyfokka käytettävissä.
-
-Selaa [lokikirjaa](/fi/logbook/) purjehduskertomuksia varten, tai tutustu [dokumentaatioon](/fi/docs/) käyttöopasta varten.
