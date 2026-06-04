@@ -64,7 +64,7 @@ gallery:
     alt: "Makuupaikka"
   - src: "images/gallery/IMG20230507140932.jpg"
     alt: "Pentteri"
-  - src: "images/gallery/IMG20230507141049.jpg"
+  - src: "images/gallery/galley-stove.jpg"
     alt: "Kaasuhella"
   - src: "images/gallery/IMG20230507140953.jpg"
     alt: "Wallas 1300 -lämmitin"
