@@ -1,0 +1,10 @@
+<div class="img-pair">
+  <figure>
+    <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" }}">
+    {{ with .Get "caption1" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+  <figure>
+    <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" }}">
+    {{ with .Get "caption2" }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+</div>

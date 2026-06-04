@@ -81,7 +81,7 @@ A well-equipped, spirited cruiser — a joy to sail in light airs and fresh wind
 
 This is the enhanced Albin Express "Jubilee" celebration model from 1990. Unlike most Expresses, she features a fixed galley, water tank with sink and tap, as well as LPG and shore power systems. For cruising comfort, there's also a proper compressor cool box, a chemical toilet, and a cabin heater.
 
-The outboard is a reliable 8 hp Yamaha with a large-diameter propeller — she turns nicely even in tight harbours.
+The outboard is a Mariner 5 hp with a large-diameter propeller — she turns nicely even in tight harbours.
 
 Spinnaker and a storm fock included.
 

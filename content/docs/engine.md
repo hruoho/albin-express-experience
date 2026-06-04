@@ -1,34 +1,28 @@
 ---
 title: "Engine"
 weight: 2
-summary: "Yamaha 8 hp — starting, operation, and fuel"
+summary: "Mariner 5 — starting, operation, and fuel"
 ---
 
-## Yamaha 8 hp
+## Mariner 5 (5M 6E3 L)
 
 ### Starting Procedure
 
-1. Open the air valve on the fuel tank, pump the fuel line 10 times
-2. Turn the throttle to the marked position, open the choke, and pull start (watch out for the boom)
-3. Once the engine starts, close the choke and reduce throttle
-4. To stop: press the red button for a couple of seconds. It shouldn't require force. If nothing happens, try gently flicking the button upward.
+1. Open the air valve on the fuel tank, pump the fuel line a few times
+2. Set the throttle to the Start position, open the choke, pull start. If it doesn't start straight away, adjust the choke between pulls
+3. Once the engine starts, reduce throttle and reduce/close the choke
+4. To stop: press the red button for a couple of seconds.
+5. Close the air valve at the end of the day so the cabin doesn't smell
 
-![Fuel pump, air valve, throttle position, and shutdown button](/images/docs/engine-details.jpg)
+{{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Choke closed" caption1="Choke closed" src2="/images/docs/engine-choke-open.jpg" alt2="Choke open" caption2="Choke open" >}}
 
 ### Tips
 
-- If the engine won't start or keeps stalling, try holding/pulling the shutdown button outward and flicking it upward
 - Always check that the fuel line is properly connected to the engine before any dock operations. The connector can sometimes come loose unnoticed when raising or turning the motor.
 - The outboard is not locked on its swivel axis, so you can steer with it during low-speed manoeuvring in the harbour. When heading out, make sure the engine is at the right angle so the boat tracks straight with the tiller centred.
 
 ### Fuel
 
-The fuel tank and a reserve canister are in the rear locker. The reserve canister contains 98-octane petrol with 0% oil.
+The fuel tank and a reserve canister are in the rear locker.
 
-**Important:** When refuelling, it is essential to add 1–2% motor oil to the petrol or the engine will be damaged. Add the correct amount of oil directly to the fuel tank.
-
-### Under Sail
-
-When sailing, raise the bracket to the upper position and tilt the engine out of the water. The tilt mechanism is somewhat stiff. Remember to push the lock pin in after tilting the engine.
-
-![Motor bracket raised and lock pin](/images/docs/engine-tilt.jpg)
+**Important:** Always use 98-octane petrol mixed with exactly 2% motor oil. The engine will be damaged without oil. Add the correct amount of oil directly to the fuel tank when refuelling.

@@ -81,7 +81,7 @@ Hyvin varusteltu, vauhdikas retkivene, jolla on ilo purjehtia niin kevyellä kui
 
 Kyseessä paranneltu juhlamalli Albin Express "Jubilee" vuodelta 1990, jossa useimmista Expresseistä poiketen löytyy kiinteä pentteri, vesitankki, allas ja hana sekä nestekaasu- ja maasähköjärjestelmät. Retkeilyä varten veneessä on lisäksi kunnollinen kompressorikylmälaukku, kemiallinen WC ja lämmityslaite.
 
-Perämoottorina luotettava 8 hv Yamaha isolapaisella potkurilla, jolla vene kääntyy kivasti ahtaissakin satamissa.
+Perämoottorina Mariner 5 hv isolapaisella potkurilla, jolla vene kääntyy kivasti ahtaissakin satamissa.
 
 Spinaakkerivarustus ja myrskyfokka käytettävissä.
 

@@ -504,6 +504,27 @@ a:hover {
   border: 1px solid var(--color-sand);
 }
 
+.img-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.img-pair img {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.img-pair figcaption {
+  font-size: 0.8rem;
+  color: var(--color-muted, #888);
+  margin-top: 0.4rem;
+  text-align: center;
+}
+
 /* --- Captain --- */
 
 .captain__photo {
