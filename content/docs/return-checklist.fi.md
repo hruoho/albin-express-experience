@@ -1,6 +1,6 @@
 ---
 title: "Veneen palauttaminen"
-weight: 5
+weight: 8
 summary: "Palautustoimet, siivous ja tarkistuslista"
 ---
 

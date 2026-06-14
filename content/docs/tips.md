@@ -1,6 +1,6 @@
 ---
 title: "Practical Tips"
-weight: 6
+weight: 9
 summary: "Tiller lock, battens, mosquito nets, harbour tips"
 ---
 

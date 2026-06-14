@@ -1,6 +1,6 @@
 ---
 title: "Systems"
-weight: 3
+weight: 4
 summary: "Electrical, gas, water, toilet, and refrigeration"
 ---
 

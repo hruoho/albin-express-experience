@@ -1,6 +1,6 @@
 ---
 title: "Perämoottori"
-weight: 2
+weight: 3
 summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 ---
 

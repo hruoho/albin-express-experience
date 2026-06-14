@@ -1,6 +1,6 @@
 ---
 title: "Vinkkejä"
-weight: 6
+weight: 9
 summary: "Ohjauspinna, ratsastajat, hyttysverkot, satamavinkkit"
 ---
 

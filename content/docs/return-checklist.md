@@ -1,6 +1,6 @@
 ---
 title: "Return Checklist"
-weight: 5
+weight: 8
 summary: "Return procedures and cleaning"
 ---
 
