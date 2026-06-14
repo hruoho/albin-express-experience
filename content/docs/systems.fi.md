@@ -34,8 +34,8 @@ Veden täyttöaukko on keulakannella. Avaamiseen ei tarvitse työkaluja.
 
 ## WC
 
-Veneessä on Dometic 976 -kemiallinen WC (käyttöohjeet verkossa). Säiliön voi helpoiten tyhjentää kotisataman "bajamajaan" tai jonkin toisen sataman vesivessaan. Hyviin tapoihin kuuluu huuhtaista säiliö puhtaalla vedellä tyhjennyksen jälkeen ja täyttää huuhteluvesisäiliö.
+Veneessä on Dometic 976 -kemiallinen WC ([käyttöohje](/docs/dometic-976-manual.pdf)). Säiliön voi helpoiten tyhjentää kotisataman "bajamajaan" tai jonkin toisen sataman vesivessaan. Hyviin tapoihin kuuluu huuhtaista säiliö puhtaalla vedellä tyhjennyksen jälkeen ja täyttää huuhteluvesisäiliö.
 
 ## Jääkaappi
 
-Jääkaappi/kylmäboksi on malliltaan Dometic CoolFreeze 36 (käyttöohjeet verkossa). Lämpötilan voi säätää -18 ja +10 asteen välille. Virransaanti häiriintyy helposti virtajohdon liikkuessa; kannattaa toisinaan tarkistaa että jääkaappi on edelleen käynnissä.
+Jääkaappi/kylmäboksi on malliltaan Dometic CoolFreeze 36 ([käyttöohje](/docs/dometic-cdf-36-coolfreeze-manual.pdf)). Lämpötilan voi säätää -18 ja +10 asteen välille. Virransaanti häiriintyy helposti virtajohdon liikkuessa; kannattaa toisinaan tarkistaa että jääkaappi on edelleen käynnissä.

@@ -34,8 +34,8 @@ The water fill access is on the foredeck. No tools needed to open it.
 
 ## Toilet
 
-The boat has a Dometic 976 chemical toilet (user manual available online). The tank can be emptied most easily into the home port portable toilet or a shore-side toilet at another harbour. Good practice is to rinse the tank with clean water after emptying and refill the flush water tank.
+The boat has a Dometic 976 chemical toilet ([user manual](/docs/dometic-976-manual.pdf)). The tank can be emptied most easily into the home port portable toilet or a shore-side toilet at another harbour. Good practice is to rinse the tank with clean water after emptying and refill the flush water tank.
 
 ## Refrigerator
 
-The fridge/cool box is a Dometic CoolFreeze 36 (user manual available online). Temperature can be adjusted between -18°C and +10°C. Power supply is easily disrupted when the power cable moves — check occasionally that the fridge is still running.
+The fridge/cool box is a Dometic CoolFreeze 36 ([user manual](/docs/dometic-cdf-36-coolfreeze-manual.pdf)). Temperature can be adjusted between -18°C and +10°C. Power supply is easily disrupted when the power cable moves — check occasionally that the fridge is still running.
