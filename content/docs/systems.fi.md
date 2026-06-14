@@ -1,7 +1,7 @@
 ---
 title: "Sähkö, kaasu, vesi"
 weight: 4
-summary: "Sähköjärjestelmä, kaasu, vesitankki, WC ja jääkaappi"
+summary: "Sähköjärjestelmä, kaasu, vesitankki, WC, jääkaappi ja lämmitin"
 ---
 
 ## Sähkö
@@ -39,3 +39,11 @@ Veneessä on Dometic 976 -kemiallinen WC ([käyttöohje](/docs/dometic-976-manua
 ## Jääkaappi
 
 Jääkaappi/kylmäboksi on malliltaan Dometic CoolFreeze 36 ([käyttöohje](/docs/dometic-cdf-36-coolfreeze-manual.pdf)). Lämpötilan voi säätää -18 ja +10 asteen välille. Virransaanti häiriintyy helposti virtajohdon liikkuessa; kannattaa toisinaan tarkistaa että jääkaappi on edelleen käynnissä.
+
+## Lämmitin
+
+Veneessä on Wallas 1300 -lämmitin, joka sijaitsee keulapunkassa. Se kytketään päälle ja pois sen oikealla sivulla olevasta kytkimestä. Se käyttää polttoaineenaan lamppuöljyä, ja kanisteri on punkan alla.
+
+Lämmitin tarvitsee akkuvirtaa jäähdytyspuhaltimen ja polttoainepumpun pyörittämiseen, joten sen käydessä pääkytkintä ei saa kääntää pois päältä.
+
+Sammuta lämmitin sen omasta kytkimestä. Tämän jälkeen se käy vielä jonkin aikaa jäähtyäkseen — punainen valo palaa tämän ajan. **Kun punainen valo palaa, lämmitintä ei saa kytkeä takaisin päälle. Tämä on tärkeää.**

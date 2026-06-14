@@ -1,7 +1,7 @@
 ---
 title: "Systems"
 weight: 4
-summary: "Electrical, gas, water, toilet, and refrigeration"
+summary: "Electrical, gas, water, toilet, refrigeration, and heater"
 ---
 
 ## Electrical
@@ -39,3 +39,11 @@ The boat has a Dometic 976 chemical toilet ([user manual](/docs/dometic-976-manu
 ## Refrigerator
 
 The fridge/cool box is a Dometic CoolFreeze 36 ([user manual](/docs/dometic-cdf-36-coolfreeze-manual.pdf)). Temperature can be adjusted between -18°C and +10°C. Power supply is easily disrupted when the power cable moves — check occasionally that the fridge is still running.
+
+## Heater
+
+The boat has a Wallas 1300 heater, located in the V-berth (forward bunk). It is switched on and off from a switch on its right side. It runs on lamp oil, and the fuel canister is stored below the bunk.
+
+The heater needs battery power to run its cooling fan and fuel pump, so while it is running the main switch must not be turned off.
+
+To shut it down, flip the heater's own switch. It will keep running for a while afterwards to cool down — a red light stays on during this time. **While the red light is on, do not switch the heater back on. This is important.**
