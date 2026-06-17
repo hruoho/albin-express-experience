@@ -24,7 +24,7 @@ Satamassa on parkkitilaa ja WC (valkoinen bajamaja mastonosturin vieressä), ei 
 
 Laiturin ovi pidetään jatkuvasti lukittuna, molempiin suuntiin tarvitsee avaimen.
 
-![Albin Express "Experience"](/images/docs/kopussa.jpg)
+{{< docs-img src="kopussa.jpg" alt=`Albin Express "Experience"` >}}
 
 ## Kiinnitysköydet
 
@@ -36,7 +36,7 @@ Sinisen köyden keskivaiheille on sidottu silmukka, josta se on helppo kiinnitt�
 
 Keulaköysiin ja ankkuriliinaan on merkitty kotisataman säädöt valmiiksi valkoisella langalla (veneen ulkolaidan mukaan).
 
-![Kotisatama ja kiinnitys](/images/docs/marina-mooring-2.jpg)
+{{< docs-img src="marina-mooring-2.jpg" alt="Kotisatama ja kiinnitys" >}}
 
 ## Handy Dock -poijuhaka
 
@@ -44,8 +44,8 @@ Ankkuriliinassa on kiinni Handy Dock -koukku. Jos sen käyttö ei ole tuttua, tu
 
 Haka vetäistään irti koukusta samalla kun koukku kiinnitetään poijuun. Haka jää siis veneeseen ja toimii tavallisena puoshakana. Lähtiessä Handy Dock -koukku avataan nykäisemällä "liipaisimesta" (häkkyrän keskellä oleva reikä) joko puoshaalla tai sormella jos ylettää.
 
-![Handy Dock -koukku ja haka](/images/docs/handy-dock-hook.jpg)
+{{< docs-img src="handy-dock-hook.jpg" alt="Handy Dock -koukku ja haka" >}}
 
 Ankkuria käytettäessä irrota Handy Dock teräskarabiinista ja kiinnitä ankkuriliina suoraan kettinkiin.
 
-![Handy Dock -koukun käyttö (Kippari-lehti)](/images/docs/handy-dock-kippari.jpg)
+{{< docs-img src="handy-dock-kippari.jpg" alt="Handy Dock -koukun käyttö (Kippari-lehti)" >}}

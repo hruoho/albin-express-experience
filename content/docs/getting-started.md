@@ -24,7 +24,7 @@ The marina has parking and a WC (white portable toilet near the mast crane), but
 
 The dock gate is kept locked at all times — you need a key in both directions.
 
-![Albin Express "Experience"](/images/docs/kopussa.jpg)
+{{< docs-img src="kopussa.jpg" alt=`Albin Express "Experience"` >}}
 
 ## Mooring Lines
 
@@ -36,7 +36,7 @@ A loop is tied to the middle of the blue line, making it easy to attach to the a
 
 The bow lines and anchor line have home port settings pre-marked with white thread (aligned with the hull).
 
-![Home port and mooring](/images/docs/marina-mooring-2.jpg)
+{{< docs-img src="marina-mooring-2.jpg" alt="Home port and mooring" >}}
 
 ## Handy Dock Buoy Hook
 
@@ -44,8 +44,8 @@ The anchor line has a Handy Dock hook attached. If you're not familiar with it, 
 
 The grab is pulled away from the hook while the hook is attached to the buoy. The grab stays on the boat and works as a regular boat hook. When departing, the Handy Dock hook is released by pulling the "trigger" (the hole in the centre of the mechanism) with either the boat hook or your finger if you can reach it.
 
-![Handy Dock hook and grab](/images/docs/handy-dock-hook.jpg)
+{{< docs-img src="handy-dock-hook.jpg" alt="Handy Dock hook and grab" >}}
 
 When using the anchor, detach the Handy Dock from the steel carabiner and connect the anchor line directly to the chain.
 
-![Handy Dock hook usage (Kippari magazine)](/images/docs/handy-dock-kippari.jpg)
+{{< docs-img src="handy-dock-kippari.jpg" alt="Handy Dock hook usage (Kippari magazine)" >}}

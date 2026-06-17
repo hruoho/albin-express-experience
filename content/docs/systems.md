@@ -8,7 +8,7 @@ summary: "Electrical, gas, water, toilet, refrigeration, and heater"
 
 Battery power is switched on from the main switch, located below the companionway hatch, next to the toilet. The control panel on the port side controls navigation lights and cabin lights. The panel labels are partly misleading. The instrument panel switch is on the starboard side in the galley cabinet.
 
-![Main switch, control panel, and instrument switch](/images/docs/electrical-panel.jpg)
+{{< docs-img src="electrical-panel.jpg" alt="Main switch, control panel, and instrument switch" >}}
 
 ### Shore Power
 
@@ -24,7 +24,7 @@ There are two gas valves: one at the bottle connection and another just before t
 
 A good practice is to leave the gas bottle compartment lid open while cooking, so the bottle stays visible and you won't forget to close the valve.
 
-![Gas bottle and valves — left closed, right open](/images/docs/gas-valves.jpg)
+{{< docs-img src="gas-valves.jpg" alt="Gas bottle and valves — left closed, right open" >}}
 
 ## Water
 

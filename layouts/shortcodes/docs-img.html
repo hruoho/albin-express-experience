@@ -1,0 +1,11 @@
+{{- $src := .Get "src" -}}
+{{- $img := resources.Get (printf "images/docs/%s" $src) -}}
+{{- if $img -}}
+  {{- $r := $img.Resize "1000x webp q80" -}}
+  <figure class="docs-img">
+    <img src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async">
+    {{- with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end -}}
+  </figure>
+{{- else -}}
+  {{- errorf "docs-img: image not found in assets/images/docs/: %q" $src -}}
+{{- end -}}

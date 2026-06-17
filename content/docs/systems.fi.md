@@ -8,7 +8,7 @@ summary: "Sähköjärjestelmä, kaasu, vesitankki, WC, jääkaappi ja lämmitin"
 
 Akkuvirta kytketään pääkytkimestä, joka löytyy kulkuaukon alapuolelta, WC-pöntön vierestä. Paapuurin puolella on kojetaulu, josta saa kytkettyä kulkuvalot ja sisävalot. Taulun merkinnät ovat osin harhaanjohtavat. Mittariston kytkin on styyrpuurin puolella kaapissa.
 
-![Pääkytkin, kojetaulu ja mittariston kytkin](/images/docs/electrical-panel.jpg)
+{{< docs-img src="electrical-panel.jpg" alt="Pääkytkin, kojetaulu ja mittariston kytkin" >}}
 
 ### Maasähkö
 
@@ -24,7 +24,7 @@ Kaasuventtiileitä on kaksi: toinen heti pullon liittimessä ja toinen juuri enn
 
 Hyvä tapa on jättää kaasupullon lokeron kansi auki keittelyn ajaksi, jolloin kaasupullo pysyy näkyvissä eikä venttiilin sulkeminen unohdu niin helposti.
 
-![Kaasupullo ja venttiilit — vasemmalla suljettu, oikealla auki](/images/docs/gas-valves.jpg)
+{{< docs-img src="gas-valves.jpg" alt="Kaasupullo ja venttiilit — vasemmalla suljettu, oikealla auki" >}}
 
 ## Vesi
 

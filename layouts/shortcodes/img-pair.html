@@ -1,10 +1,16 @@
+{{- $p1 := strings.TrimPrefix "/images/docs/" (.Get "src1") -}}
+{{- $p2 := strings.TrimPrefix "/images/docs/" (.Get "src2") -}}
+{{- $i1 := resources.Get (printf "images/docs/%s" $p1) -}}
+{{- $i2 := resources.Get (printf "images/docs/%s" $p2) -}}
+{{- $r1 := $i1.Resize "1000x webp q80" -}}
+{{- $r2 := $i2.Resize "1000x webp q80" -}}
 <div class="img-pair">
   <figure>
-    <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" }}">
+    <img src="{{ $r1.RelPermalink }}" width="{{ $r1.Width }}" height="{{ $r1.Height }}" alt="{{ .Get "alt1" }}" loading="lazy" decoding="async">
     {{ with .Get "caption1" }}<figcaption>{{ . }}</figcaption>{{ end }}
   </figure>
   <figure>
-    <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" }}">
+    <img src="{{ $r2.RelPermalink }}" width="{{ $r2.Width }}" height="{{ $r2.Height }}" alt="{{ .Get "alt2" }}" loading="lazy" decoding="async">
     {{ with .Get "caption2" }}<figcaption>{{ . }}</figcaption>{{ end }}
   </figure>
 </div>

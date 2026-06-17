@@ -4,7 +4,7 @@ weight: 6
 summary: "Emergency gear, signal devices, and through-hulls"
 ---
 
-![Rescue ring, emergency supplies, and through-hull](/images/docs/safety-equipment.jpg)
+{{< docs-img src="safety-equipment.jpg" alt="Rescue ring, emergency supplies, and through-hull" >}}
 
 ## Deck Equipment
 

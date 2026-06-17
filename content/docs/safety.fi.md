@@ -4,7 +4,7 @@ weight: 6
 summary: "Turvavarusteet, merkkikuviot ja läpiviennit"
 ---
 
-![Pelastusrengas, hätävarusteet ja läpivienti](/images/docs/safety-equipment.jpg)
+{{< docs-img src="safety-equipment.jpg" alt="Pelastusrengas, hätävarusteet ja läpivienti" >}}
 
 ## Kansivarusteet
 
