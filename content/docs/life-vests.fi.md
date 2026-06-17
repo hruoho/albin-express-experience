@@ -1,6 +1,6 @@
 ---
 title: "Pelastusliivit"
-weight: 7
+weight: 8
 summary: "Veneen pelastusliivit: paukku- ja vaahtomuoviliivit, koot"
 ---
 

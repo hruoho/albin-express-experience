@@ -1,6 +1,6 @@
 ---
 title: "Sähkö, kaasu, vesi"
-weight: 4
+weight: 5
 summary: "Sähköjärjestelmä, kaasu, vesitankki, WC, jääkaappi ja lämmitin"
 ---
 

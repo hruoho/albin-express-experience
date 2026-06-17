@@ -1,6 +1,6 @@
 ---
 title: "Safety Equipment"
-weight: 6
+weight: 7
 summary: "Emergency gear, signal devices, and through-hulls"
 ---
 

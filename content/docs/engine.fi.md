@@ -1,6 +1,6 @@
 ---
 title: "Perämoottori"
-weight: 3
+weight: 4
 summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 ---
 
@@ -14,7 +14,7 @@ summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 4. Kone sammuu painamalla punaista nappulaa pari sekuntia.
 5. Ilmahana kiinni päivän päätteeksi niin ei haise kajuutassa
 
-{{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Ryyppy kiinni" caption1="Ryyppy kiinni" src2="/images/docs/engine-choke-open.jpg" alt2="Ryyppy auki" caption2="Ryyppy auki" >}}
+{{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Ryyppy kiinni" caption1="Ryyppy kiinni (ajoasento)" src2="/images/docs/engine-choke-open.jpg" alt2="Ryyppy auki" caption2="Ryyppy auki" >}}
 
 ### Vinkkejä
 

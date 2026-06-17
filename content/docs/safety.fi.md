@@ -1,6 +1,6 @@
 ---
 title: "Hätävarusteet ja työkalut"
-weight: 6
+weight: 7
 summary: "Turvavarusteet, merkkikuviot ja läpiviennit"
 ---
 

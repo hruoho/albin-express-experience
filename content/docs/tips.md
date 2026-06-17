@@ -1,6 +1,6 @@
 ---
 title: "Practical Tips"
-weight: 9
+weight: 10
 summary: "Tiller lock, battens, mosquito nets, harbour tips"
 ---
 
@@ -10,7 +10,7 @@ The tiller can be locked at centre by raising it to the upper position. The lock
 
 ## Mainsail Battens
 
-The mainsail battens are held in the mast track by an orange silicone strap. The strap must be removed when reefing and put back when the reef is shaken out or the sail is lowered (otherwise the battens will escape from the mast track).
+The mainsail battens are held in the mast track by a black silicone strap. The strap must be removed when reefing and put back when the reef is shaken out or the sail is lowered (otherwise the battens will escape from the mast track).
 
 ## Mosquito Nets and Rain Cover
 

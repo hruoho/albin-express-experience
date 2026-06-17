@@ -1,6 +1,6 @@
 ---
 title: "Vinkkejä"
-weight: 9
+weight: 10
 summary: "Ohjauspinna, ratsastajat, hyttysverkot, satamavinkkit"
 ---
 
@@ -10,7 +10,7 @@ Ohjauspinnan saa lukittua keskelle nostamalla pinnaa yläasentoon. Lukitusnarun 
 
 ## Isopurjeen ratsastajat
 
-Isopurjeen ratsastajat pysyvät maastourassa oranssin silikoniremmin avulla. Remmi täytyy irrottaa reivatessa ja laittaa takaisin kun reivi puretaan tai purje lasketaan (muuten ratsastajat pakenevat mastourasta).
+Isopurjeen ratsastajat pysyvät maastourassa mustan silikoniremmin avulla. Remmi täytyy irrottaa reivatessa ja laittaa takaisin kun reivi puretaan tai purje lasketaan (muuten ratsastajat pakenevat mastourasta).
 
 ## Hyttysverkot ja sadesuoja
 

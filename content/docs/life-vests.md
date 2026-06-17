@@ -1,6 +1,6 @@
 ---
 title: "Life Vests"
-weight: 7
+weight: 8
 summary: "Onboard life jackets: inflatable and foam, with sizes"
 ---
 

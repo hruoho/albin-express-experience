@@ -1,6 +1,6 @@
 ---
 title: "Keittiövälineet"
-weight: 5
+weight: 6
 summary: "Keittiön varustus: liesi, vedenkeitin, kattilat, astiat ja aterimet"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Kitchenware"
-weight: 5
+weight: 6
 summary: "Galley equipment: stove, boiler, pots, dishes, and cutlery"
 ---
 
