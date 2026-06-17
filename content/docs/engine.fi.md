@@ -32,15 +32,15 @@ Perämoottori istuu peräpeilissä nostettavalla telineellä (*moottoriteline*),
 
 **Moottorin kallistaminen ylös** — varmista että vaihde on vapaalla (vipu pystyasennossa), tartu moottoriin kannen takareunasta ja kallista itseesi päin. Moottori lukittuu itsestään yläasentoon.
 
-### Käynnistys
+### Käynnistys ja sammutus
 
-1. Avaa bensatankin ilmahana ja pumppaa letkun pumppua muutaman kerran.
-2. Vaihde (moottorin vasemmalla sivulla oleva vipu) vapaalle, eli vipu pystyasentoon
+1. Avaa bensatankin ilmaruuvia ja pumppaa letkun pumppua muutaman kerran.
+2. Vaihde vapaalle, eli moottorin vasemmalla sivulla oleva vaihdevipu pystyasentoon.
 3. Kaasukahva Start-merkin tuntumaan, ryyppy auki ja veto käynnistysnarusta. Jos kone ei heti käynnisty, säädä ryyppyä parin vedon välein.
-4. Kun kone käynnistyy, vähennä kaasua heti ja sulje ryyppy.
-5. Liikkeelle lähtö: vaihde eteen tai taakse
-6. Sammutus: paina punaista nappia pari sekuntia.
-7. Päivän päätteeksi sulje ilmahana.
+4. Kun kone käynnistyy, vähennä kaasua heti kun kierrokset nousevat, sulje ryyppy.
+5. Liikkeelle lähtö: vaihdevipu eteen tai taakse (peruutus). Vaihtaessa suuntaa, pysäytä vipu aina hetkeksi keskiasentoon.
+6. Sammutus: paina punaista nappia pari sekuntia, laita vaihde vapaalle.
+7. Sulje ilmaruuvi.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Ryyppy kiinni" caption1="Ryyppy kiinni (ajoasento)" src2="/images/docs/engine-choke-open.jpg" alt2="Ryyppy auki" caption2="Ryyppy auki" >}}
 

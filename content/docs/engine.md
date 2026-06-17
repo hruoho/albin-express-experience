@@ -32,15 +32,15 @@ The outboard sits on a lifting mount (*moottoriteline*) on the transom, so you c
 
 **Tilting up** — make sure the gear is in neutral (lever upright), grab the engine by the rear edge of the cowling, and tilt it toward you. The engine locks itself in the raised position.
 
-### Starting Procedure
+### Starting and Stopping
 
-1. Open the air valve on the fuel tank and give the fuel line bulb a few pumps.
-2. Put the gear (the lever on the left side of the engine) in neutral — lever upright.
+1. Open the air screw on the fuel tank and give the fuel line bulb a few pumps.
+2. Put the gearbox in neutral — the gear lever on the left side of the engine upright.
 3. Throttle near the Start mark, choke open, and pull the starter cord. If it doesn't catch straight away, adjust the choke between a couple of pulls.
-4. Once it fires up, ease off the throttle right away and close the choke.
-5. To get moving: shift into forward or reverse.
-6. To stop: hold the red button for a couple of seconds.
-7. At the end of the day, close the air valve.
+4. Once it fires up, ease off the throttle as soon as the revs rise, and close the choke.
+5. To get moving: gear lever forward or back (reverse). When changing direction, always pause the lever briefly in neutral.
+6. To stop: hold the red button for a couple of seconds, then put the gear in neutral.
+7. Close the air screw.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Choke closed" caption1="Choke closed (running setting)" src2="/images/docs/engine-choke-open.jpg" alt2="Choke open" caption2="Choke open" >}}
 
