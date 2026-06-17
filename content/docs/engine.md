@@ -6,36 +6,41 @@ summary: "Mariner 5 — starting, operation, and fuel"
 
 ## Mariner 5 (5M 6E3 L)
 
+It's a two-stroke from 1984. It rattles and smells, but it's simple and reliable.
+
 ### Engine Mount
 
-The outboard lives on a tilt-up mount (*moottoriteline*) on the transom, so it can swing up clear of the water when you're not motoring. It looks fiddlier than it is — just two moves each way, and you can't really get it wrong.
+The outboard sits on a lifting mount (*moottoriteline*) on the transom, so you can take it out of the water when it's not needed. The mount is spring-assisted and light to operate.
 
 **Heading out, or moving around the harbour:** tilt the engine down, lower the mount, then start it up (steps below).
 
-**Once the sails are up:** shut the engine off, raise the mount, and tilt the engine up. Out of the water it stops dragging — and *that's* the moment it actually matters. Pottering around the harbour under engine, it's fine to leave it down.
+**Once the sails are up:** shut the engine off, raise the mount, and tilt the engine up. Otherwise it drags behind you, and it can get badly swamped if left in the lowered position.
 
-The moves up close:
+#### Lowering and raising the mount
 
-- **Tilting down** — pull the thin lever on the rear left of the engine. (Not the gear lever — *vaihdevipu* — on the left cheek; that's a different one.)
-- **Tilting up** — grab the engine by the upper back and lift. It holds itself up, so you can let go.
-- **Lowering the mount** — release it by lifting it outwards, push it down toward the water, then pull it back toward the boat so it locks.
-- **Raising the mount** — release the lever, pull it toward you, and let it lock again.
+**Lowering the mount** — release it by lifting the handle *outwards*, push it down toward the water, then press it back toward the transom so it locks.
 
-*The photos below show the boat's previous engine (a Yamaha 8); the mount and its operation are identical on the current Mariner 5.*
+**Raising the mount** — release the lever by turning it outwards, lift the mount toward you, and lock it by pressing toward the boat.
 
-{{< docs-img src="engine-bracket.jpg" alt="Releasing the bracket with the locking lever" caption="The locking lever releases the bracket so it can be raised or lowered" >}}
+*The photos below show the previous engine (a Yamaha 8); the mount and its operation are identical on the current Mariner 5.*
 
-{{< img-pair src1="/images/docs/engine-bracket-raised.jpg" alt1="Bracket in the raised position" caption1="Raised (stowed)" src2="/images/docs/engine-bracket-lowered.jpg" alt2="Bracket in the lowered position" caption2="Lowered (running)" >}}
+{{< docs-img src="engine-bracket.jpg" alt="Releasing the bracket with the locking lever" caption="The locking lever releases the mount so it can be raised or lowered" >}}
+
+{{< img-pair src1="/images/docs/engine-bracket-raised.jpg" alt1="Mount in the raised position" caption1="Raised mount" src2="/images/docs/engine-bracket-lowered.jpg" alt2="Mount in the lowered position" caption2="Lowered mount (running)" >}}
+
+**Tilting down** — release it by turning the thin lever on the rear left of the engine. (Don't confuse it with the gear lever on the left side of the engine.)
+
+**Tilting up** — make sure the gear is in neutral (lever upright), grab the engine by the rear edge of the cowling, and tilt it toward you. The engine locks itself in the raised position.
 
 ### Starting Procedure
 
-It's a manual two-stroke — all by hand, nothing electric to fuss with. Once you've done it once it's quick:
-
 1. Open the air valve on the fuel tank and give the fuel line bulb a few pumps.
-2. Throttle to the Start mark, choke open, and pull. If it doesn't catch straight away, flip the choke between pulls.
-3. Once it fires up, ease off the throttle and close the choke.
-4. To stop: hold the red button for a couple of seconds.
-5. At the end of the day, close the air valve — otherwise the cabin gets a whiff of petrol.
+2. Put the gear (the lever on the left side of the engine) in neutral — lever upright.
+3. Throttle near the Start mark, choke open, and pull the starter cord. If it doesn't catch straight away, adjust the choke between a couple of pulls.
+4. Once it fires up, ease off the throttle right away and close the choke.
+5. To get moving: shift into forward or reverse.
+6. To stop: hold the red button for a couple of seconds.
+7. At the end of the day, close the air valve.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Choke closed" caption1="Choke closed (running setting)" src2="/images/docs/engine-choke-open.jpg" alt2="Choke open" caption2="Choke open" >}}
 

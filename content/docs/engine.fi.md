@@ -6,36 +6,41 @@ summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 
 ## Mariner 5 (5M 6E3 L)
 
+Kyseessä on kaksitahtikone vuodelta 1984. Rämisee ja haisee mutta on yksinkertainen ja luotettava.
+
 ### Moottoriteline
 
-Perämoottori istuu peräpeilissä nostettavalla telineellä (*moottoriteline*), jonka avulla sen voi kääntää pois vedestä silloin kun ei moottoroida. Ensi kerralla näyttää nikkaroinnilta, mutta kyse on vain kahdesta liikkeestä suuntaansa — eikä siinä juuri voi mokata.
+Perämoottori istuu peräpeilissä nostettavalla telineellä (*moottoriteline*), jonka avulla sen voi ottaa pois vedestä kun ei tarvita. Teline on jousiavusteinen ja kevyt käyttää. 
 
 **Satamasta lähtiessä tai satamassa liikkuessa:** kallista moottori alas, laske teline alas ja käynnistä kone (ohjeet alla).
 
-**Kun purjeet ovat ylhäällä:** sammuta kone, nosta teline ylös ja kallista moottori ylös. Vedestä nostettuna se ei enää jarruta — ja juuri silloin sillä on merkitystä. Satamassa konevoimin pötköttäessä sen voi hyvin jättää alas.
+**Kun purjeet ylhäällä:** sammuta kone, nosta teline ylös ja kallista moottori ylös. Muuten laahaa perässä ja voi kastua pahasti ala-asennossa.
 
-Vaiheet tarkemmin:
+#### Telineen laskeminen ja nostaminen
 
-- **Moottorin kallistaminen alas** — vedä moottorin takavasemmalla olevasta ohuesta vivusta. (Ei siis vaihdevivusta vasemmalla poskella — se on eri vipu.)
-- **Moottorin kallistaminen ylös** — tartu moottoriin ylätakaa ja nosta. Se jää itsestään yläasentoon, joten voit huoletta päästää irti.
-- **Telineen laskeminen** — vapauta se nostamalla ulospäin, työnnä kohti vettä ja vedä sitten takaisin venettä kohti niin se lukittuu.
-- **Telineen nostaminen** — vapauta vipu, vedä telinettä itseäsi kohti ja anna sen lukittua takaisin.
+**Telineen laskeminen** — vapauta nostamalla kahvasta _ulospäin_, työnnä kohti vettä ja paina sitten takaisin peräpeiliä kohti jotta lukittuu.
 
-*Kuvissa näkyy veneen edellinen moottori (Yamaha 8); teline ja sen käyttö ovat samanlaiset nykyisessä Mariner 5:ssä.*
+**Telineen nostaminen** — vapauta vipu kääntämällä ulospäin, nosta telinettä itseäsi kohti ja lukitse painamalla venettä kohti.
+
+*Kuvissa näkyy aiempi moottori (Yamaha 8); teline ja sen käyttö ovat samanlaiset nykyisessä Mariner 5:ssä.*
 
 {{< docs-img src="engine-bracket.jpg" alt="Telineen vapautus lukitusvivulla" caption="Lukitusvipu vapauttaa telineen, jolloin sen voi nostaa tai laskea" >}}
 
-{{< img-pair src1="/images/docs/engine-bracket-raised.jpg" alt1="Teline yläasennossa" caption1="Yläasento (säilytys)" src2="/images/docs/engine-bracket-lowered.jpg" alt2="Teline ala-asennossa" caption2="Ala-asento (ajo)" >}}
+{{< img-pair src1="/images/docs/engine-bracket-raised.jpg" alt1="Teline yläasennossa" caption1="Nostettu teline" src2="/images/docs/engine-bracket-lowered.jpg" alt2="Teline ala-asennossa" caption2="Laskettu teline (ajo)" >}}
+
+**Moottorin kallistaminen alas** — vapauta kääntämällä moottorin takavasemmalla olevaa ohutta vipua. (Älä sekoita vaihdevipuun koneen vasemmalla sivulla.)
+
+**Moottorin kallistaminen ylös** — varmista että vaihde on vapaalla (vipu pystyasennossa), tartu moottoriin kannen takareunasta ja kallista itseesi päin. Moottori lukittuu itsestään yläasentoon.
 
 ### Käynnistys
 
-Tämä on käsikäyttöinen kaksitahtikone — kaikki tapahtuu käsin, ei mitään sähköistä murehdittavaa. Kun teet sen kerran, se sujuu nopeasti:
-
 1. Avaa bensatankin ilmahana ja pumppaa letkun pumppua muutaman kerran.
-2. Kaasukahva Start-merkin kohdalle, ryyppy auki ja vedä. Jos kone ei heti käynnisty, säädä ryyppyä vetojen välissä.
-3. Kun kone käynnistyy, vähennä kaasua ja sulje ryyppy.
-4. Sammutus: paina punaista nappia pari sekuntia.
-5. Päivän päätteeksi sulje ilmahana — muuten kajuutassa alkaa haista bensa.
+2. Vaihde (moottorin vasemmalla sivulla oleva vipu) vapaalle, eli vipu pystyasentoon
+3. Kaasukahva Start-merkin tuntumaan, ryyppy auki ja veto käynnistysnarusta. Jos kone ei heti käynnisty, säädä ryyppyä parin vedon välein.
+4. Kun kone käynnistyy, vähennä kaasua heti ja sulje ryyppy.
+5. Liikkeelle lähtö: vaihde eteen tai taakse
+6. Sammutus: paina punaista nappia pari sekuntia.
+7. Päivän päätteeksi sulje ilmahana.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Ryyppy kiinni" caption1="Ryyppy kiinni (ajoasento)" src2="/images/docs/engine-choke-open.jpg" alt2="Ryyppy auki" caption2="Ryyppy auki" >}}
 
