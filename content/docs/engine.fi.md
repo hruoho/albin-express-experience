@@ -8,18 +8,18 @@ summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 
 ### Moottoriteline
 
-Perämoottori on kiinnitetty peräpeiliin telineeseen (moottoriteline), jonka avulla koneen voi nostaa pois vedestä silloin kun sitä ei käytetä.
+Perämoottori istuu peräpeilissä nostettavalla telineellä (*moottoriteline*), jonka avulla sen voi kääntää pois vedestä silloin kun ei moottoroida. Ensi kerralla näyttää nikkaroinnilta, mutta kyse on vain kahdesta liikkeestä suuntaansa — eikä siinä juuri voi mokata.
 
-**Koneen laskeminen veteen:** kallista moottori alas, laske teline alas ja käynnistä kone (ks. Käynnistys alla).
+**Satamasta lähtiessä tai satamassa liikkuessa:** kallista moottori alas, laske teline alas ja käynnistä kone (ohjeet alla).
 
-**Koneen nostaminen pois käytöstä:** sammuta kone, nosta teline ylös ja kallista moottori ylös.
+**Kun purjeet ovat ylhäällä:** sammuta kone, nosta teline ylös ja kallista moottori ylös. Vedestä nostettuna se ei enää jarruta — ja juuri silloin sillä on merkitystä. Satamassa konevoimin pötköttäessä sen voi hyvin jättää alas.
 
-Yksittäiset vaiheet:
+Vaiheet tarkemmin:
 
-- **Moottorin kallistaminen alas** — käytä moottorin takavasemmalla olevaa ohutta vipua (ei vaihdevipua vasemmalla poskella).
-- **Moottorin kallistaminen ylös** — tartu moottoriin ylätakaa ja nosta; se jää itsestään yläasentoon.
-- **Telineen laskeminen** — vapauta se nostamalla ulospäin, työnnä kohti vettä ja vedä sitten takaisin venettä kohti lukitaksesi telineen.
-- **Telineen nostaminen** — vapauta vipu, vedä telinettä itseäsi kohti ja lukitse uudelleen.
+- **Moottorin kallistaminen alas** — vedä moottorin takavasemmalla olevasta ohuesta vivusta. (Ei siis vaihdevivusta vasemmalla poskella — se on eri vipu.)
+- **Moottorin kallistaminen ylös** — tartu moottoriin ylätakaa ja nosta. Se jää itsestään yläasentoon, joten voit huoletta päästää irti.
+- **Telineen laskeminen** — vapauta se nostamalla ulospäin, työnnä kohti vettä ja vedä sitten takaisin venettä kohti niin se lukittuu.
+- **Telineen nostaminen** — vapauta vipu, vedä telinettä itseäsi kohti ja anna sen lukittua takaisin.
 
 *Kuvissa näkyy veneen edellinen moottori (Yamaha 8); teline ja sen käyttö ovat samanlaiset nykyisessä Mariner 5:ssä.*
 
@@ -29,21 +29,25 @@ Yksittäiset vaiheet:
 
 ### Käynnistys
 
-1. Ilmahana auki bensatankista, käytä letkun pumppua muutama kerta
-2. Kaasukahva Start-merkin kohdalle, ryyppy auki, käynnistys. Jos kone ei heti käynnisty, säädä ryyppyä parin nykäyksen välein
-3. Kun kone käynnistyy, vähennä kaasua ja vähennä / sulje ryyppy
-4. Kone sammuu painamalla punaista nappulaa pari sekuntia.
-5. Ilmahana kiinni päivän päätteeksi niin ei haise kajuutassa
+Tämä on käsikäyttöinen kaksitahtikone — kaikki tapahtuu käsin, ei mitään sähköistä murehdittavaa. Kun teet sen kerran, se sujuu nopeasti:
+
+1. Avaa bensatankin ilmahana ja pumppaa letkun pumppua muutaman kerran.
+2. Kaasukahva Start-merkin kohdalle, ryyppy auki ja vedä. Jos kone ei heti käynnisty, säädä ryyppyä vetojen välissä.
+3. Kun kone käynnistyy, vähennä kaasua ja sulje ryyppy.
+4. Sammutus: paina punaista nappia pari sekuntia.
+5. Päivän päätteeksi sulje ilmahana — muuten kajuutassa alkaa haista bensa.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Ryyppy kiinni" caption1="Ryyppy kiinni (ajoasento)" src2="/images/docs/engine-choke-open.jpg" alt2="Ryyppy auki" caption2="Ryyppy auki" >}}
 
 ### Vinkkejä
 
-- Tarkista aina ennen satamaoperaatioita, että bensaletku on hyvin kiinni koneessa. Liitin saattaa joskus huomaamatta irrota konetta nostaessa tai kääntäessä.
-- Perämoottoria ei ole lukittu kääntöakselinsa suhteen vaan silläkin voi tarvittaessa ohjata venettä esimerkiksi satamassa operoidessa. Kun matka eteenpäin alkaa, varmista että kone on sopivassa kulmassa niin, että vene menee suoraan pinnan ollessa keskiasennossa.
+Pari asiaa jotka kannattaa tietää:
+
+- Tarkista aina ennen satamaoperaatioita, että bensaletku on kunnolla kiinni koneessa — liitin saattaa huomaamatta löystyä konetta nostaessa tai kääntäessä, eikä konetta haluta menettää keskellä käännöstä.
+- Perämoottoria ei ole lukittu kääntöakselinsa suhteen, joten sillä voi myös ohjata venettä esimerkiksi satamassa hiljaa liikkuessa. Lähtiessä matkaan aseta se suoraan, niin vene kulkee suoraan pinnan ollessa keskiasennossa.
 
 ### Polttoaine
 
-Bensatankki ja varakanisteri löytyy takaluukusta.
+Bensatankki ja varakanisteri ovat takaluukussa.
 
-**Tärkeää:** Käytä aina 98-oktaanista bensaa sekoitettuna tasan 2% moottoriöljyyn. Ilman öljyä kone rikkoutuu. Lisää oikea määrä öljyä suoraan bensatankkiin tankatessa.
+**Tärkeää — älä ohita tätä:** kone käy 98-oktaanisella bensalla, johon on sekoitettu tasan 2 % kaksitahtiöljyä, ja kone vaurioituu jos se käy ilman öljyä. Lisää oikea määrä öljyä suoraan tankkiin aina tankatessa.

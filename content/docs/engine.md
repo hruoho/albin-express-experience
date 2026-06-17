@@ -8,18 +8,18 @@ summary: "Mariner 5 — starting, operation, and fuel"
 
 ### Engine Mount
 
-The outboard sits on a tilt-up mount (*moottoriteline*) on the transom, which lets it be lifted clear of the water when not in use.
+The outboard lives on a tilt-up mount (*moottoriteline*) on the transom, so it can swing up clear of the water when you're not motoring. It looks fiddlier than it is — just two moves each way, and you can't really get it wrong.
 
-**To put the engine in the water:** tilt the engine down, lower the mount, then start the engine (see Starting Procedure below).
+**Heading out, or moving around the harbour:** tilt the engine down, lower the mount, then start it up (steps below).
 
-**To stow the engine:** shut the engine down, raise the mount, then tilt the engine up.
+**Once the sails are up:** shut the engine off, raise the mount, and tilt the engine up. Out of the water it stops dragging — and *that's* the moment it actually matters. Pottering around the harbour under engine, it's fine to leave it down.
 
-The individual steps:
+The moves up close:
 
-- **Tilting the engine down** — use the thin lever on the rear left side of the engine (not the gear lever, *vaihdevipu*, on the left cheek).
-- **Tilting the engine up** — grab the engine by the upper rear and lift; it stays up on its own.
-- **Lowering the mount** — release it by lifting it outwards, push it down towards the water, then pull it back towards the boat to lock it.
-- **Raising the mount** — release the lever, pull the mount towards you, then lock it again.
+- **Tilting down** — pull the thin lever on the rear left of the engine. (Not the gear lever — *vaihdevipu* — on the left cheek; that's a different one.)
+- **Tilting up** — grab the engine by the upper back and lift. It holds itself up, so you can let go.
+- **Lowering the mount** — release it by lifting it outwards, push it down toward the water, then pull it back toward the boat so it locks.
+- **Raising the mount** — release the lever, pull it toward you, and let it lock again.
 
 *The photos below show the boat's previous engine (a Yamaha 8); the mount and its operation are identical on the current Mariner 5.*
 
@@ -29,21 +29,25 @@ The individual steps:
 
 ### Starting Procedure
 
-1. Open the air valve on the fuel tank, pump the fuel line a few times
-2. Set the throttle to the Start position, open the choke, pull start. If it doesn't start straight away, flip the choke between 2 pulls
-3. Once the engine starts, reduce throttle and reduce/close the choke
-4. To stop: press the red button for a couple of seconds.
-5. Close the air valve at the end of the day so the cabin doesn't smell
+It's a manual two-stroke — all by hand, nothing electric to fuss with. Once you've done it once it's quick:
+
+1. Open the air valve on the fuel tank and give the fuel line bulb a few pumps.
+2. Throttle to the Start mark, choke open, and pull. If it doesn't catch straight away, flip the choke between pulls.
+3. Once it fires up, ease off the throttle and close the choke.
+4. To stop: hold the red button for a couple of seconds.
+5. At the end of the day, close the air valve — otherwise the cabin gets a whiff of petrol.
 
 {{< img-pair src1="/images/docs/engine-choke-closed.jpg" alt1="Choke closed" caption1="Choke closed (running setting)" src2="/images/docs/engine-choke-open.jpg" alt2="Choke open" caption2="Choke open" >}}
 
 ### Tips
 
-- Always check that the fuel line is properly connected to the engine before any dock operations. The connector can sometimes come loose unnoticed when raising or turning the motor.
-- The outboard is not locked on its swivel axis, so you can steer with it during low-speed manoeuvring in the harbour. When heading out, make sure the engine is at the right angle so the boat tracks straight with the tiller centred.
+A couple of things worth knowing:
+
+- Before any docking manoeuvre, double-check the fuel line is properly clipped to the engine — the connector can sneak loose when you raise or turn the motor, and you don't want it quitting on you mid-turn.
+- The outboard isn't locked on its swivel, so you can actually steer with it while creeping around the harbour. Heading out, just set it straight so the boat tracks true with the tiller centred.
 
 ### Fuel
 
-The fuel tank and a reserve canister are in the rear locker.
+The fuel tank and a spare canister are in the rear locker.
 
-**Important:** Always use 98-octane petrol mixed with exactly 2% motor oil. The engine will be damaged without oil. Add the correct amount of oil directly to the fuel tank when refuelling.
+**Important — don't skip this:** it runs on 98-octane petrol mixed with exactly 2% two-stroke oil, and the engine *will* be damaged if it runs without oil. Add the right amount straight into the tank every time you refuel.
