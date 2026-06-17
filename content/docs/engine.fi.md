@@ -6,6 +6,27 @@ summary: "Mariner 5 — käynnistys, käyttö ja polttoaine"
 
 ## Mariner 5 (5M 6E3 L)
 
+### Moottoriteline
+
+Perämoottori on kiinnitetty peräpeiliin telineeseen (moottoriteline), jonka avulla koneen voi nostaa pois vedestä silloin kun sitä ei käytetä.
+
+**Koneen laskeminen veteen:** kallista moottori alas, laske teline alas ja käynnistä kone (ks. Käynnistys alla).
+
+**Koneen nostaminen pois käytöstä:** sammuta kone, nosta teline ylös ja kallista moottori ylös.
+
+Yksittäiset vaiheet:
+
+- **Moottorin kallistaminen alas** — käytä moottorin takavasemmalla olevaa ohutta vipua (ei vaihdevipua vasemmalla poskella).
+- **Moottorin kallistaminen ylös** — tartu moottoriin ylätakaa ja nosta; se jää itsestään yläasentoon.
+- **Telineen laskeminen** — vapauta se nostamalla ulospäin, työnnä kohti vettä ja vedä sitten takaisin venettä kohti lukitaksesi telineen.
+- **Telineen nostaminen** — vapauta vipu, vedä telinettä itseäsi kohti ja lukitse uudelleen.
+
+*Kuvissa näkyy veneen edellinen moottori (Yamaha 8); teline ja sen käyttö ovat samanlaiset nykyisessä Mariner 5:ssä.*
+
+{{< docs-img src="engine-bracket.jpg" alt="Telineen vapautus lukitusvivulla" caption="Lukitusvipu vapauttaa telineen, jolloin sen voi nostaa tai laskea" >}}
+
+{{< img-pair src1="/images/docs/engine-bracket-raised.jpg" alt1="Teline yläasennossa" caption1="Yläasento (säilytys)" src2="/images/docs/engine-bracket-lowered.jpg" alt2="Teline ala-asennossa" caption2="Ala-asento (ajo)" >}}
+
 ### Käynnistys
 
 1. Ilmahana auki bensatankista, käytä letkun pumppua muutama kerta
